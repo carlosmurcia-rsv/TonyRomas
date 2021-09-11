@@ -1,2 +1,0 @@
--------------LOG FECHA 7/9/2021 17:43:59
-7/9/2021 17:43:59: Aplicación inicializada correctamente  
