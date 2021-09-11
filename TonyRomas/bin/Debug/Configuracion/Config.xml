@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <Timer>
+    <Intervalo name="Intervalo">1001</Intervalo>
+  </Timer>
+  <DataBase>
+    <ID>1</ID>
+    <Instancia>RSV-4267RF2\RICOH2021</Instancia>
+    <Base>DOT</Base>
+    <usr>sa</usr>
+    <pwd>p@ssw0rd</pwd>
+  </DataBase>
+  <Ruta>
+	<folder>C:\DOT\Piramide</folder>
+  </Ruta>
+  <Sucursal>
+	<nombre>TRMETRO</nombre>
+	<nombre_largo>TR METROCENTRO</nombre_largo>
+	<direccion>Blvd. Los Heroes, Ctro. Com.Metrocentro,
+			11 va. Etapa, San Salvador.</direccion>
+	<nit>0614−171083−001−5</nit>
+	<nrc>7100−5</nrc>
+	<impresora>Preventas IM430F</impresora>
+  </Sucursal>
+</Config>

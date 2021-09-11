@@ -1,0 +1,329 @@
+-------------LOG FECHA 9/9/2021 10:53:38
+9/9/2021 10:53:38: REIMPRESION  
+9/9/2021 10:53:39: REIMPRESION  
+9/9/2021 10:53:40: REIMPRESION  
+9/9/2021 10:53:41: REIMPRESION  
+9/9/2021 10:53:42: REIMPRESION  
+9/9/2021 10:53:43: REIMPRESION  
+9/9/2021 10:53:44: REIMPRESION  
+9/9/2021 10:53:45: REIMPRESION  
+9/9/2021 10:53:46: REIMPRESION  
+9/9/2021 10:55:49: REIMPRESION  
+9/9/2021 10:55:50: REIMPRESION  
+9/9/2021 10:55:51: REIMPRESION  
+9/9/2021 10:55:52: REIMPRESION  
+9/9/2021 10:55:53: REIMPRESION  
+9/9/2021 10:55:54: REIMPRESION  
+9/9/2021 10:55:55: REIMPRESION  
+9/9/2021 10:55:56: REIMPRESION  
+9/9/2021 10:55:57: REIMPRESION  
+9/9/2021 10:55:58: REIMPRESION  
+9/9/2021 10:55:59: REIMPRESION  
+9/9/2021 10:56:00: REIMPRESION  
+9/9/2021 10:56:01: REIMPRESION  
+9/9/2021 10:56:16: REIMPRESION  
+9/9/2021 10:56:17: REIMPRESION  
+9/9/2021 10:56:18: REIMPRESION  
+9/9/2021 10:56:19: REIMPRESION  
+9/9/2021 10:56:20: REIMPRESION  
+9/9/2021 10:56:21: REIMPRESION  
+9/9/2021 10:56:22: REIMPRESION  
+9/9/2021 10:56:25: REIMPRESION  
+9/9/2021 10:57:07: REIMPRESION  
+9/9/2021 10:57:08: REIMPRESION  
+9/9/2021 10:57:09: REIMPRESION  
+9/9/2021 10:57:10: REIMPRESION  
+9/9/2021 10:57:11: REIMPRESION  
+9/9/2021 10:57:12: REIMPRESION  
+9/9/2021 10:57:13: REIMPRESION  
+9/9/2021 15:26:14: REIMPRESION  
+9/9/2021 15:26:15: REIMPRESION  
+9/9/2021 15:26:17: REIMPRESION  
+9/9/2021 15:26:18: REIMPRESION  
+9/9/2021 15:26:19: REIMPRESION  
+9/9/2021 17:30:00: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDFCLIENTE\2021\9\9\092954935.pdf 
+9/9/2021 17:30:01: Se guardo factura cliente PDF factura cliente en RICOHPS C:\DOT\PDFEMISOR\2021\9\9\092954935.pdf 
+9/9/2021 17:30:02: Se guardo factura cliente PDF factura cliente en RICOHPS C:\DOT\PDFCOPICLIENTE\2021\9\9\092954935.pdf 
+9/9/2021 17:30:04: REIMPRESION  
+9/9/2021 17:35:49: REIMPRESION  
+9/9/2021 17:46:27: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDFCLIENTE\2021\9\9\094623935.pdf 
+9/9/2021 17:46:28: Se guardo factura cliente PDF factura cliente en RICOHPS C:\DOT\PDFEMISOR\2021\9\9\094623935.pdf 
+9/9/2021 17:46:30: Se guardo factura cliente PDF factura cliente en RICOHPS C:\DOT\PDFCOPICLIENTE\2021\9\9\094623935.pdf 
+9/9/2021 17:46:40: REIMPRESION  
+9/9/2021 18:20:10: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDFCLIENTE\2021\9\9\092003935.pdf 
+9/9/2021 18:20:11: Se guardo factura cliente PDF factura cliente en RICOHPS C:\DOT\PDFEMISOR\2021\9\9\092003935.pdf 
+9/9/2021 18:20:13: Se guardo factura cliente PDF factura cliente en RICOHPS C:\DOT\PDFCOPICLIENTE\2021\9\9\092003935.pdf 
+9/9/2021 18:20:26: REIMPRESION  
+9/9/2021 18:27:07: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDFCLIENTE\2021\9\9\092701935.pdf 
+9/9/2021 18:27:08: Se guardo factura cliente PDF factura cliente en RICOHPS C:\DOT\PDFEMISOR\2021\9\9\092701935.pdf 
+9/9/2021 18:27:10: Se guardo factura cliente PDF factura cliente en RICOHPS C:\DOT\PDFCOPICLIENTE\2021\9\9\092701935.pdf 
+9/9/2021 18:29:40: REIMPRESION  
+9/9/2021 18:35:09: REIMPRESION  
+9/9/2021 18:38:40: REIMPRESION  
+9/9/2021 18:57:48: REIMPRESION  
+9/9/2021 18:59:02: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDFCLIENTE\2021\9\9\095855937.pdf 
+9/9/2021 18:59:04: Se guardo factura cliente PDF factura cliente en RICOHPS C:\DOT\PDFEMISOR\2021\9\9\095855937.pdf 
+9/9/2021 18:59:05: Se guardo factura cliente PDF factura cliente en RICOHPS C:\DOT\PDFCOPICLIENTE\2021\9\9\095855937.pdf 
+9/9/2021 19:06:03: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDFCLIENTE\2021\9\9\090559938.pdf 
+9/9/2021 19:06:04: Se guardo factura cliente PDF factura cliente en RICOHPS C:\DOT\PDFEMISOR\2021\9\9\090559938.pdf 
+9/9/2021 19:06:06: Se guardo factura cliente PDF factura cliente en RICOHPS C:\DOT\PDFCOPICLIENTE\2021\9\9\090559938.pdf 
+9/9/2021 19:06:11: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDFCLIENTE\2021\9\9\090610939.pdf 
+9/9/2021 19:06:12: Se guardo factura cliente PDF factura cliente en RICOHPS C:\DOT\PDFEMISOR\2021\9\9\090610939.pdf 
+9/9/2021 19:06:14: Se guardo factura cliente PDF factura cliente en RICOHPS C:\DOT\PDFCOPICLIENTE\2021\9\9\090610939.pdf 
+9/9/2021 19:06:16: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDFCLIENTE\2021\9\9\090615940.pdf 
+9/9/2021 19:06:18: Se guardo factura cliente PDF factura cliente en RICOHPS C:\DOT\PDFEMISOR\2021\9\9\090615940.pdf 
+9/9/2021 19:06:19: Se guardo factura cliente PDF factura cliente en RICOHPS C:\DOT\PDFCOPICLIENTE\2021\9\9\090615940.pdf 
+9/9/2021 19:06:22: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDFCLIENTE\2021\9\9\090620941.pdf 
+9/9/2021 19:06:23: Se guardo factura cliente PDF factura cliente en RICOHPS C:\DOT\PDFEMISOR\2021\9\9\090620941.pdf 
+9/9/2021 19:06:25: Se guardo factura cliente PDF factura cliente en RICOHPS C:\DOT\PDFCOPICLIENTE\2021\9\9\090620941.pdf 
+9/9/2021 19:06:28: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDFCLIENTE\2021\9\9\090626942.pdf 
+9/9/2021 19:06:29: Se guardo factura cliente PDF factura cliente en RICOHPS C:\DOT\PDFEMISOR\2021\9\9\090626942.pdf 
+9/9/2021 19:06:30: Se guardo factura cliente PDF factura cliente en RICOHPS C:\DOT\PDFCOPICLIENTE\2021\9\9\090626942.pdf 
+9/9/2021 19:06:32: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDFCLIENTE\2021\9\9\090631943.pdf 
+9/9/2021 19:06:34: Se guardo factura cliente PDF factura cliente en RICOHPS C:\DOT\PDFEMISOR\2021\9\9\090631943.pdf 
+9/9/2021 19:06:35: Se guardo factura cliente PDF factura cliente en RICOHPS C:\DOT\PDFCOPICLIENTE\2021\9\9\090631943.pdf 
+9/9/2021 19:06:38: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDFCLIENTE\2021\9\9\090636944.pdf 
+9/9/2021 19:06:39: Se guardo factura cliente PDF factura cliente en RICOHPS C:\DOT\PDFEMISOR\2021\9\9\090636944.pdf 
+9/9/2021 19:06:41: Se guardo factura cliente PDF factura cliente en RICOHPS C:\DOT\PDFCOPICLIENTE\2021\9\9\090636944.pdf 
+9/9/2021 19:06:44: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDFCLIENTE\2021\9\9\090642945.pdf 
+9/9/2021 19:06:45: Se guardo factura cliente PDF factura cliente en RICOHPS C:\DOT\PDFEMISOR\2021\9\9\090642945.pdf 
+9/9/2021 19:06:47: Se guardo factura cliente PDF factura cliente en RICOHPS C:\DOT\PDFCOPICLIENTE\2021\9\9\090642945.pdf 
+9/9/2021 19:06:50: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDFCLIENTE\2021\9\9\090648946.pdf 
+9/9/2021 19:06:51: Se guardo factura cliente PDF factura cliente en RICOHPS C:\DOT\PDFEMISOR\2021\9\9\090648946.pdf 
+9/9/2021 19:06:53: Se guardo factura cliente PDF factura cliente en RICOHPS C:\DOT\PDFCOPICLIENTE\2021\9\9\090648946.pdf 
+9/9/2021 19:06:55: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDFCLIENTE\2021\9\9\090654947.pdf 
+9/9/2021 19:06:56: Se guardo factura cliente PDF factura cliente en RICOHPS C:\DOT\PDFEMISOR\2021\9\9\090654947.pdf 
+9/9/2021 19:06:58: Se guardo factura cliente PDF factura cliente en RICOHPS C:\DOT\PDFCOPICLIENTE\2021\9\9\090654947.pdf 
+9/9/2021 19:07:00: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDFCLIENTE\2021\9\9\090659948.pdf 
+9/9/2021 19:07:02: Se guardo factura cliente PDF factura cliente en RICOHPS C:\DOT\PDFEMISOR\2021\9\9\090659948.pdf 
+9/9/2021 19:07:03: Se guardo factura cliente PDF factura cliente en RICOHPS C:\DOT\PDFCOPICLIENTE\2021\9\9\090659948.pdf 
+9/9/2021 19:07:05: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDFCLIENTE\2021\9\9\090704949.pdf 
+9/9/2021 19:07:07: Se guardo factura cliente PDF factura cliente en RICOHPS C:\DOT\PDFEMISOR\2021\9\9\090704949.pdf 
+9/9/2021 19:07:08: Se guardo factura cliente PDF factura cliente en RICOHPS C:\DOT\PDFCOPICLIENTE\2021\9\9\090704949.pdf 
+9/9/2021 19:07:11: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDFCLIENTE\2021\9\9\090709950.pdf 
+9/9/2021 19:07:12: Se guardo factura cliente PDF factura cliente en RICOHPS C:\DOT\PDFEMISOR\2021\9\9\090709950.pdf 
+9/9/2021 19:07:13: Se guardo factura cliente PDF factura cliente en RICOHPS C:\DOT\PDFCOPICLIENTE\2021\9\9\090709950.pdf 
+9/9/2021 19:07:16: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDFCLIENTE\2021\9\9\090715951.pdf 
+9/9/2021 19:07:17: Se guardo factura cliente PDF factura cliente en RICOHPS C:\DOT\PDFEMISOR\2021\9\9\090715951.pdf 
+9/9/2021 19:07:19: Se guardo factura cliente PDF factura cliente en RICOHPS C:\DOT\PDFCOPICLIENTE\2021\9\9\090715951.pdf 
+9/9/2021 19:07:21: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDFCLIENTE\2021\9\9\090720952.pdf 
+9/9/2021 19:07:23: Se guardo factura cliente PDF factura cliente en RICOHPS C:\DOT\PDFEMISOR\2021\9\9\090720952.pdf 
+9/9/2021 19:07:24: Se guardo factura cliente PDF factura cliente en RICOHPS C:\DOT\PDFCOPICLIENTE\2021\9\9\090720952.pdf 
+9/9/2021 19:07:27: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDFCLIENTE\2021\9\9\090725953.pdf 
+9/9/2021 19:07:29: Se guardo factura cliente PDF factura cliente en RICOHPS C:\DOT\PDFEMISOR\2021\9\9\090725953.pdf 
+9/9/2021 19:07:30: Se guardo factura cliente PDF factura cliente en RICOHPS C:\DOT\PDFCOPICLIENTE\2021\9\9\090725953.pdf 
+9/9/2021 19:07:33: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDFCLIENTE\2021\9\9\090731954.pdf 
+9/9/2021 19:07:35: Se guardo factura cliente PDF factura cliente en RICOHPS C:\DOT\PDFEMISOR\2021\9\9\090731954.pdf 
+9/9/2021 19:07:36: Se guardo factura cliente PDF factura cliente en RICOHPS C:\DOT\PDFCOPICLIENTE\2021\9\9\090731954.pdf 
+9/9/2021 19:08:18: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDFCLIENTE\2021\9\9\0908121.pdf 
+9/9/2021 19:08:19: Se guardo factura cliente PDF factura cliente en RICOHPS C:\DOT\PDFEMISOR\2021\9\9\0908121.pdf 
+9/9/2021 19:08:20: Se guardo factura cliente PDF factura cliente en RICOHPS C:\DOT\PDFCOPICLIENTE\2021\9\9\0908121.pdf 
+9/9/2021 19:09:26: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDFCLIENTE\2021\9\9\0909252.pdf 
+9/9/2021 19:09:28: Se guardo factura cliente PDF factura cliente en RICOHPS C:\DOT\PDFEMISOR\2021\9\9\0909252.pdf 
+9/9/2021 19:09:29: Se guardo factura cliente PDF factura cliente en RICOHPS C:\DOT\PDFCOPICLIENTE\2021\9\9\0909252.pdf 
+9/9/2021 19:09:31: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDFCLIENTE\2021\9\9\0909303.pdf 
+9/9/2021 19:09:32: Se guardo factura cliente PDF factura cliente en RICOHPS C:\DOT\PDFEMISOR\2021\9\9\0909303.pdf 
+9/9/2021 19:09:34: Se guardo factura cliente PDF factura cliente en RICOHPS C:\DOT\PDFCOPICLIENTE\2021\9\9\0909303.pdf 
+9/9/2021 19:09:36: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDFCLIENTE\2021\9\9\0909354.pdf 
+9/9/2021 19:09:38: Se guardo factura cliente PDF factura cliente en RICOHPS C:\DOT\PDFEMISOR\2021\9\9\0909354.pdf 
+9/9/2021 19:09:40: Se guardo factura cliente PDF factura cliente en RICOHPS C:\DOT\PDFCOPICLIENTE\2021\9\9\0909354.pdf 
+9/9/2021 19:09:42: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDFCLIENTE\2021\9\9\0909415.pdf 
+9/9/2021 19:09:43: Se guardo factura cliente PDF factura cliente en RICOHPS C:\DOT\PDFEMISOR\2021\9\9\0909415.pdf 
+9/9/2021 19:09:45: Se guardo factura cliente PDF factura cliente en RICOHPS C:\DOT\PDFCOPICLIENTE\2021\9\9\0909415.pdf 
+9/9/2021 19:09:47: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDFCLIENTE\2021\9\9\0909466.pdf 
+9/9/2021 19:09:49: Se guardo factura cliente PDF factura cliente en RICOHPS C:\DOT\PDFEMISOR\2021\9\9\0909466.pdf 
+9/9/2021 19:09:50: Se guardo factura cliente PDF factura cliente en RICOHPS C:\DOT\PDFCOPICLIENTE\2021\9\9\0909466.pdf 
+9/9/2021 19:09:53: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDFCLIENTE\2021\9\9\0909517.pdf 
+9/9/2021 19:09:55: Se guardo factura cliente PDF factura cliente en RICOHPS C:\DOT\PDFEMISOR\2021\9\9\0909517.pdf 
+9/9/2021 19:09:56: Se guardo factura cliente PDF factura cliente en RICOHPS C:\DOT\PDFCOPICLIENTE\2021\9\9\0909517.pdf 
+9/9/2021 19:09:59: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDFCLIENTE\2021\9\9\0909578.pdf 
+9/9/2021 19:10:01: Se guardo factura cliente PDF factura cliente en RICOHPS C:\DOT\PDFEMISOR\2021\9\9\0909578.pdf 
+9/9/2021 19:10:03: Se guardo factura cliente PDF factura cliente en RICOHPS C:\DOT\PDFCOPICLIENTE\2021\9\9\0909578.pdf 
+9/9/2021 19:11:49: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDFCLIENTE\2021\9\9\0911421.pdf 
+9/9/2021 19:11:50: Se guardo factura cliente PDF factura cliente en RICOHPS C:\DOT\PDFEMISOR\2021\9\9\0911421.pdf 
+9/9/2021 19:11:51: Se guardo factura cliente PDF factura cliente en RICOHPS C:\DOT\PDFCOPICLIENTE\2021\9\9\0911421.pdf 
+9/9/2021 19:11:59: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDFCLIENTE\2021\9\9\0911582.pdf 
+9/9/2021 19:12:01: Se guardo factura cliente PDF factura cliente en RICOHPS C:\DOT\PDFEMISOR\2021\9\9\0911582.pdf 
+9/9/2021 19:12:02: Se guardo factura cliente PDF factura cliente en RICOHPS C:\DOT\PDFCOPICLIENTE\2021\9\9\0911582.pdf 
+9/9/2021 19:12:04: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDFCLIENTE\2021\9\9\0912033.pdf 
+9/9/2021 19:12:06: Se guardo factura cliente PDF factura cliente en RICOHPS C:\DOT\PDFEMISOR\2021\9\9\0912033.pdf 
+9/9/2021 19:12:07: Se guardo factura cliente PDF factura cliente en RICOHPS C:\DOT\PDFCOPICLIENTE\2021\9\9\0912033.pdf 
+9/9/2021 19:12:10: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDFCLIENTE\2021\9\9\0912084.pdf 
+9/9/2021 19:12:11: Se guardo factura cliente PDF factura cliente en RICOHPS C:\DOT\PDFEMISOR\2021\9\9\0912084.pdf 
+9/9/2021 19:12:13: Se guardo factura cliente PDF factura cliente en RICOHPS C:\DOT\PDFCOPICLIENTE\2021\9\9\0912084.pdf 
+9/9/2021 19:12:15: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDFCLIENTE\2021\9\9\0912145.pdf 
+9/9/2021 19:12:16: Se guardo factura cliente PDF factura cliente en RICOHPS C:\DOT\PDFEMISOR\2021\9\9\0912145.pdf 
+9/9/2021 19:12:18: Se guardo factura cliente PDF factura cliente en RICOHPS C:\DOT\PDFCOPICLIENTE\2021\9\9\0912145.pdf 
+9/9/2021 19:12:20: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDFCLIENTE\2021\9\9\0912196.pdf 
+9/9/2021 19:12:22: Se guardo factura cliente PDF factura cliente en RICOHPS C:\DOT\PDFEMISOR\2021\9\9\0912196.pdf 
+9/9/2021 19:12:25: Se guardo factura cliente PDF factura cliente en RICOHPS C:\DOT\PDFCOPICLIENTE\2021\9\9\0912196.pdf 
+9/9/2021 19:12:27: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDFCLIENTE\2021\9\9\0912267.pdf 
+9/9/2021 19:12:29: Se guardo factura cliente PDF factura cliente en RICOHPS C:\DOT\PDFEMISOR\2021\9\9\0912267.pdf 
+9/9/2021 19:12:31: Se guardo factura cliente PDF factura cliente en RICOHPS C:\DOT\PDFCOPICLIENTE\2021\9\9\0912267.pdf 
+9/9/2021 19:12:34: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDFCLIENTE\2021\9\9\0912328.pdf 
+9/9/2021 19:12:35: Se guardo factura cliente PDF factura cliente en RICOHPS C:\DOT\PDFEMISOR\2021\9\9\0912328.pdf 
+9/9/2021 19:12:37: Se guardo factura cliente PDF factura cliente en RICOHPS C:\DOT\PDFCOPICLIENTE\2021\9\9\0912328.pdf 
+9/9/2021 19:12:51: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDFCLIENTE\2021\9\9\0912499.pdf 
+9/9/2021 19:12:52: Se guardo factura cliente PDF factura cliente en RICOHPS C:\DOT\PDFEMISOR\2021\9\9\0912499.pdf 
+9/9/2021 19:12:54: Se guardo factura cliente PDF factura cliente en RICOHPS C:\DOT\PDFCOPICLIENTE\2021\9\9\0912499.pdf 
+9/9/2021 19:12:56: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDFCLIENTE\2021\9\9\09125510.pdf 
+9/9/2021 19:12:58: Se guardo factura cliente PDF factura cliente en RICOHPS C:\DOT\PDFEMISOR\2021\9\9\09125510.pdf 
+9/9/2021 19:12:59: Se guardo factura cliente PDF factura cliente en RICOHPS C:\DOT\PDFCOPICLIENTE\2021\9\9\09125510.pdf 
+9/9/2021 20:05:23: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDFCLIENTE\2021\9\9\0905181.pdf 
+9/9/2021 20:05:25: Se guardo factura cliente PDF factura cliente en RICOHPS C:\DOT\PDFEMISOR\2021\9\9\0905181.pdf 
+9/9/2021 20:05:26: Se guardo factura cliente PDF factura cliente en RICOHPS C:\DOT\PDFCOPICLIENTE\2021\9\9\0905181.pdf 
+9/9/2021 20:05:28: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDFCLIENTE\2021\9\9\0905272.pdf 
+9/9/2021 20:05:30: Se guardo factura cliente PDF factura cliente en RICOHPS C:\DOT\PDFEMISOR\2021\9\9\0905272.pdf 
+9/9/2021 20:05:31: Se guardo factura cliente PDF factura cliente en RICOHPS C:\DOT\PDFCOPICLIENTE\2021\9\9\0905272.pdf 
+9/9/2021 20:05:34: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDFCLIENTE\2021\9\9\0905323.pdf 
+9/9/2021 20:05:35: Se guardo factura cliente PDF factura cliente en RICOHPS C:\DOT\PDFEMISOR\2021\9\9\0905323.pdf 
+9/9/2021 20:05:37: Se guardo factura cliente PDF factura cliente en RICOHPS C:\DOT\PDFCOPICLIENTE\2021\9\9\0905323.pdf 
+9/9/2021 20:05:39: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDFCLIENTE\2021\9\9\0905384.pdf 
+9/9/2021 20:05:41: Se guardo factura cliente PDF factura cliente en RICOHPS C:\DOT\PDFEMISOR\2021\9\9\0905384.pdf 
+9/9/2021 20:05:42: Se guardo factura cliente PDF factura cliente en RICOHPS C:\DOT\PDFCOPICLIENTE\2021\9\9\0905384.pdf 
+9/9/2021 20:05:45: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDFCLIENTE\2021\9\9\0905435.pdf 
+9/9/2021 20:05:46: Se guardo factura cliente PDF factura cliente en RICOHPS C:\DOT\PDFEMISOR\2021\9\9\0905435.pdf 
+9/9/2021 20:05:48: Se guardo factura cliente PDF factura cliente en RICOHPS C:\DOT\PDFCOPICLIENTE\2021\9\9\0905435.pdf 
+9/9/2021 20:05:51: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDFCLIENTE\2021\9\9\0905496.pdf 
+9/9/2021 20:05:52: Se guardo factura cliente PDF factura cliente en RICOHPS C:\DOT\PDFEMISOR\2021\9\9\0905496.pdf 
+9/9/2021 20:05:54: Se guardo factura cliente PDF factura cliente en RICOHPS C:\DOT\PDFCOPICLIENTE\2021\9\9\0905496.pdf 
+9/9/2021 20:05:56: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDFCLIENTE\2021\9\9\0905557.pdf 
+9/9/2021 20:05:58: Se guardo factura cliente PDF factura cliente en RICOHPS C:\DOT\PDFEMISOR\2021\9\9\0905557.pdf 
+9/9/2021 20:06:00: Se guardo factura cliente PDF factura cliente en RICOHPS C:\DOT\PDFCOPICLIENTE\2021\9\9\0905557.pdf 
+9/9/2021 20:06:02: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDFCLIENTE\2021\9\9\0906018.pdf 
+9/9/2021 20:06:03: Se guardo factura cliente PDF factura cliente en RICOHPS C:\DOT\PDFEMISOR\2021\9\9\0906018.pdf 
+9/9/2021 20:06:05: Se guardo factura cliente PDF factura cliente en RICOHPS C:\DOT\PDFCOPICLIENTE\2021\9\9\0906018.pdf 
+9/9/2021 20:06:07: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDFCLIENTE\2021\9\9\0906069.pdf 
+9/9/2021 20:06:09: Se guardo factura cliente PDF factura cliente en RICOHPS C:\DOT\PDFEMISOR\2021\9\9\0906069.pdf 
+9/9/2021 20:06:11: Se guardo factura cliente PDF factura cliente en RICOHPS C:\DOT\PDFCOPICLIENTE\2021\9\9\0906069.pdf 
+9/9/2021 20:06:13: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDFCLIENTE\2021\9\9\09061210.pdf 
+9/9/2021 20:06:14: Se guardo factura cliente PDF factura cliente en RICOHPS C:\DOT\PDFEMISOR\2021\9\9\09061210.pdf 
+9/9/2021 20:06:16: Se guardo factura cliente PDF factura cliente en RICOHPS C:\DOT\PDFCOPICLIENTE\2021\9\9\09061210.pdf 
+9/9/2021 20:08:41: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDFCLIENTE\2021\9\9\0908351.pdf 
+9/9/2021 20:08:43: Se guardo factura cliente PDF factura cliente en RICOHPS C:\DOT\PDFEMISOR\2021\9\9\0908351.pdf 
+9/9/2021 20:08:44: Se guardo factura cliente PDF factura cliente en RICOHPS C:\DOT\PDFCOPICLIENTE\2021\9\9\0908351.pdf 
+9/9/2021 20:08:47: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDFCLIENTE\2021\9\9\0908452.pdf 
+9/9/2021 20:08:48: Se guardo factura cliente PDF factura cliente en RICOHPS C:\DOT\PDFEMISOR\2021\9\9\0908452.pdf 
+9/9/2021 20:08:50: Se guardo factura cliente PDF factura cliente en RICOHPS C:\DOT\PDFCOPICLIENTE\2021\9\9\0908452.pdf 
+9/9/2021 20:11:47: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B4YV4F55JHF44E638680.dat.TXT 
+9/9/2021 20:13:20: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B4YV4F55JHF44E638680.dat.TXT 
+9/9/2021 20:13:27: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDFCLIENTE\2021\9\9\091320982.pdf 
+9/9/2021 20:13:28: Se guardo factura cliente PDF factura cliente en RICOHPS C:\DOT\PDFEMISOR\2021\9\9\091320982.pdf 
+9/9/2021 20:13:30: Se guardo factura cliente PDF factura cliente en RICOHPS C:\DOT\PDFCOPICLIENTE\2021\9\9\091320982.pdf 
+9/9/2021 20:16:58: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B4YV4F55JHF44E638680.dat.TXT 
+9/9/2021 20:17:04: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDFCLIENTE\2021\9\9\091658982.pdf 
+9/9/2021 20:17:05: Se guardo factura cliente PDF factura cliente en RICOHPS C:\DOT\PDFEMISOR\2021\9\9\091658982.pdf 
+9/9/2021 20:17:07: Se guardo factura cliente PDF factura cliente en RICOHPS C:\DOT\PDFCOPICLIENTE\2021\9\9\091658982.pdf 
+9/9/2021 20:23:21: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B3VNC47102923C125313.dat.TXT061311 
+9/9/2021 20:23:27: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDFCLIENTE\2021\9\9\092321175.pdf 
+9/9/2021 20:23:29: Se guardo factura cliente PDF factura cliente en RICOHPS C:\DOT\PDFEMISOR\2021\9\9\092321175.pdf 
+9/9/2021 20:23:30: Se guardo factura cliente PDF factura cliente en RICOHPS C:\DOT\PDFCOPICLIENTE\2021\9\9\092321175.pdf 
+9/9/2021 20:23:32: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B3VVQGGMES173C2E3840.dat.TXT061311 
+9/9/2021 20:23:33: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDFCLIENTE\2021\9\9\092332183.pdf 
+9/9/2021 20:23:35: Se guardo factura cliente PDF factura cliente en RICOHPS C:\DOT\PDFEMISOR\2021\9\9\092332183.pdf 
+9/9/2021 20:23:36: Se guardo factura cliente PDF factura cliente en RICOHPS C:\DOT\PDFCOPICLIENTE\2021\9\9\092332183.pdf 
+9/9/2021 20:23:37: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B3W1E0V4HU843C41006B.dat.TXT061311 
+9/9/2021 20:23:38: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDFCLIENTE\2021\9\9\092337180.pdf 
+9/9/2021 20:23:40: Se guardo factura cliente PDF factura cliente en RICOHPS C:\DOT\PDFEMISOR\2021\9\9\092337180.pdf 
+9/9/2021 20:23:41: Se guardo factura cliente PDF factura cliente en RICOHPS C:\DOT\PDFCOPICLIENTE\2021\9\9\092337180.pdf 
+9/9/2021 20:23:42: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B3W1E0Z3CB853C41007A.dat.TXT061311 
+9/9/2021 20:23:44: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDFCLIENTE\2021\9\9\092342173.pdf 
+9/9/2021 20:23:45: Se guardo factura cliente PDF factura cliente en RICOHPS C:\DOT\PDFEMISOR\2021\9\9\092342173.pdf 
+9/9/2021 20:23:46: Se guardo factura cliente PDF factura cliente en RICOHPS C:\DOT\PDFCOPICLIENTE\2021\9\9\092342173.pdf 
+9/9/2021 20:23:47: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B3W1E12V01863C41008A.dat.TXT061311 
+9/9/2021 20:23:49: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDFCLIENTE\2021\9\9\092347178.pdf 
+9/9/2021 20:23:52: Se guardo factura cliente PDF factura cliente en RICOHPS C:\DOT\PDFEMISOR\2021\9\9\092347178.pdf 
+9/9/2021 20:23:53: Se guardo factura cliente PDF factura cliente en RICOHPS C:\DOT\PDFCOPICLIENTE\2021\9\9\092347178.pdf 
+9/9/2021 20:23:54: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B3W1K21GYNE93C418EDF.dat.TXT061311 
+9/9/2021 20:23:56: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDFCLIENTE\2021\9\9\092354177.pdf 
+9/9/2021 20:23:57: Se guardo factura cliente PDF factura cliente en RICOHPS C:\DOT\PDFEMISOR\2021\9\9\092354177.pdf 
+9/9/2021 20:23:58: Se guardo factura cliente PDF factura cliente en RICOHPS C:\DOT\PDFCOPICLIENTE\2021\9\9\092354177.pdf 
+9/9/2021 20:23:59: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B3W2J8B49EC63C44CDAF.dat.TXT061311 
+9/9/2021 20:24:01: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDFCLIENTE\2021\9\9\092359185.pdf 
+9/9/2021 20:24:02: Se guardo factura cliente PDF factura cliente en RICOHPS C:\DOT\PDFEMISOR\2021\9\9\092359185.pdf 
+9/9/2021 20:24:04: Se guardo factura cliente PDF factura cliente en RICOHPS C:\DOT\PDFCOPICLIENTE\2021\9\9\092359185.pdf 
+9/9/2021 20:24:05: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B3W2QK8NZ56E3C457AD7.dat.TXT061311 
+9/9/2021 20:24:06: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDFCLIENTE\2021\9\9\092405182.pdf 
+9/9/2021 20:24:07: Se guardo factura cliente PDF factura cliente en RICOHPS C:\DOT\PDFEMISOR\2021\9\9\092405182.pdf 
+9/9/2021 20:24:08: Se guardo factura cliente PDF factura cliente en RICOHPS C:\DOT\PDFCOPICLIENTE\2021\9\9\092405182.pdf 
+9/9/2021 20:24:09: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B3W4RJBMPDB73C4C3679.dat.TXT061311 
+9/9/2021 20:24:11: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDFCLIENTE\2021\9\9\092409191.pdf 
+9/9/2021 20:24:12: Se guardo factura cliente PDF factura cliente en RICOHPS C:\DOT\PDFEMISOR\2021\9\9\092409191.pdf 
+9/9/2021 20:24:13: Se guardo factura cliente PDF factura cliente en RICOHPS C:\DOT\PDFCOPICLIENTE\2021\9\9\092409191.pdf 
+9/9/2021 20:24:14: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B3W63YE4VG8B3C50AE17.dat.TXT061311 
+9/9/2021 20:24:16: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDFCLIENTE\2021\9\9\092414179.pdf 
+9/9/2021 20:24:18: Se guardo factura cliente PDF factura cliente en RICOHPS C:\DOT\PDFEMISOR\2021\9\9\092414179.pdf 
+9/9/2021 20:24:19: Se guardo factura cliente PDF factura cliente en RICOHPS C:\DOT\PDFCOPICLIENTE\2021\9\9\092414179.pdf 
+9/9/2021 20:24:20: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B3W69YT74SE63C513C1E.dat.TXT061311 
+9/9/2021 20:24:21: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDFCLIENTE\2021\9\9\092420188.pdf 
+9/9/2021 20:24:22: Se guardo factura cliente PDF factura cliente en RICOHPS C:\DOT\PDFEMISOR\2021\9\9\092420188.pdf 
+9/9/2021 20:24:24: Se guardo factura cliente PDF factura cliente en RICOHPS C:\DOT\PDFCOPICLIENTE\2021\9\9\092420188.pdf 
+9/9/2021 20:24:25: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B3WCTZWFMO933C670302.dat.TXT061311 
+9/9/2021 20:24:26: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDFCLIENTE\2021\9\9\092425184.pdf 
+9/9/2021 20:24:28: Se guardo factura cliente PDF factura cliente en RICOHPS C:\DOT\PDFEMISOR\2021\9\9\092425184.pdf 
+9/9/2021 20:24:29: Se guardo factura cliente PDF factura cliente en RICOHPS C:\DOT\PDFCOPICLIENTE\2021\9\9\092425184.pdf 
+9/9/2021 20:24:30: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B3WD5AU9CR1C3C680E09.dat.TXT061311 
+9/9/2021 20:24:32: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDFCLIENTE\2021\9\9\092430190.pdf 
+9/9/2021 20:24:33: Se guardo factura cliente PDF factura cliente en RICOHPS C:\DOT\PDFEMISOR\2021\9\9\092430190.pdf 
+9/9/2021 20:24:34: Se guardo factura cliente PDF factura cliente en RICOHPS C:\DOT\PDFCOPICLIENTE\2021\9\9\092430190.pdf 
+9/9/2021 20:24:35: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B3WIS6DARR643C7AC5D8.dat.TXT061311 
+9/9/2021 20:24:37: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDFCLIENTE\2021\9\9\092435181.pdf 
+9/9/2021 20:24:38: Se guardo factura cliente PDF factura cliente en RICOHPS C:\DOT\PDFEMISOR\2021\9\9\092435181.pdf 
+9/9/2021 20:24:40: Se guardo factura cliente PDF factura cliente en RICOHPS C:\DOT\PDFCOPICLIENTE\2021\9\9\092435181.pdf 
+9/9/2021 20:24:41: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B3WIS6JZMM653C7AC5F8.dat.TXT061311 
+9/9/2021 20:24:42: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDFCLIENTE\2021\9\9\092441195.pdf 
+9/9/2021 20:24:44: Se guardo factura cliente PDF factura cliente en RICOHPS C:\DOT\PDFEMISOR\2021\9\9\092441195.pdf 
+9/9/2021 20:24:45: Se guardo factura cliente PDF factura cliente en RICOHPS C:\DOT\PDFCOPICLIENTE\2021\9\9\092441195.pdf 
+9/9/2021 20:24:46: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B3WIS6NVSW663C7AC617.dat.TXT061311 
+9/9/2021 20:24:48: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDFCLIENTE\2021\9\9\092447193.pdf 
+9/9/2021 20:24:49: Se guardo factura cliente PDF factura cliente en RICOHPS C:\DOT\PDFEMISOR\2021\9\9\092447193.pdf 
+9/9/2021 20:24:51: Se guardo factura cliente PDF factura cliente en RICOHPS C:\DOT\PDFCOPICLIENTE\2021\9\9\092447193.pdf 
+9/9/2021 20:24:52: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B3WIS6S9JP673C7AC627.dat.TXT061311 
+9/9/2021 20:24:53: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B3WIS6W95Q683C7AC636.dat.TXT061311 
+9/9/2021 20:24:54: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDFCLIENTE\2021\9\9\092453194.pdf 
+9/9/2021 20:24:56: Se guardo factura cliente PDF factura cliente en RICOHPS C:\DOT\PDFEMISOR\2021\9\9\092453194.pdf 
+9/9/2021 20:24:57: Se guardo factura cliente PDF factura cliente en RICOHPS C:\DOT\PDFCOPICLIENTE\2021\9\9\092453194.pdf 
+9/9/2021 20:24:59: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B3WIS70B98693C7AC646.dat.TXT061311 
+9/9/2021 20:25:01: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDFCLIENTE\2021\9\9\092459189.pdf 
+9/9/2021 20:25:03: Se guardo factura cliente PDF factura cliente en RICOHPS C:\DOT\PDFEMISOR\2021\9\9\092459189.pdf 
+9/9/2021 20:25:04: Se guardo factura cliente PDF factura cliente en RICOHPS C:\DOT\PDFCOPICLIENTE\2021\9\9\092459189.pdf 
+9/9/2021 20:25:05: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B3WMDK18MS603C86B5C1.dat.TXT061311 
+9/9/2021 20:25:07: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDFCLIENTE\2021\9\9\092505192.pdf 
+9/9/2021 20:25:09: Se guardo factura cliente PDF factura cliente en RICOHPS C:\DOT\PDFEMISOR\2021\9\9\092505192.pdf 
+9/9/2021 20:25:10: Se guardo factura cliente PDF factura cliente en RICOHPS C:\DOT\PDFCOPICLIENTE\2021\9\9\092505192.pdf 
+9/9/2021 20:25:11: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B3WO6JVPSYE63C8CB4E9.dat.TXT061311 
+9/9/2021 20:25:13: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDFCLIENTE\2021\9\9\092512196.pdf 
+9/9/2021 20:25:15: Se guardo factura cliente PDF factura cliente en RICOHPS C:\DOT\PDFEMISOR\2021\9\9\092512196.pdf 
+9/9/2021 20:25:17: Se guardo factura cliente PDF factura cliente en RICOHPS C:\DOT\PDFCOPICLIENTE\2021\9\9\092512196.pdf 
+9/9/2021 20:45:06: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B4BKIMN1BT7F43822139.dat.TXT 
+9/9/2021 20:45:12: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDFCLIENTE\2021\9\9\094506522.pdf 
+9/9/2021 20:45:13: Se guardo factura cliente PDF factura cliente en RICOHPS C:\DOT\PDFEMISOR\2021\9\9\094506522.pdf 
+9/9/2021 20:45:14: Se guardo factura cliente PDF factura cliente en RICOHPS C:\DOT\PDFCOPICLIENTE\2021\9\9\094506522.pdf 
+9/9/2021 20:45:16: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B4BKIMQZPG8043822148.dat.TXT 
+9/9/2021 20:45:17: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDFCLIENTE\2021\9\9\094516516.pdf 
+9/9/2021 20:45:18: Se guardo factura cliente PDF factura cliente en RICOHPS C:\DOT\PDFEMISOR\2021\9\9\094516516.pdf 
+9/9/2021 20:45:19: Se guardo factura cliente PDF factura cliente en RICOHPS C:\DOT\PDFCOPICLIENTE\2021\9\9\094516516.pdf 
+9/9/2021 20:45:20: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B4BLNT6AT89F4385EDF0.dat.TXT 
+9/9/2021 20:45:21: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDFCLIENTE\2021\9\9\094520520.pdf 
+9/9/2021 20:45:23: Se guardo factura cliente PDF factura cliente en RICOHPS C:\DOT\PDFEMISOR\2021\9\9\094520520.pdf 
+9/9/2021 20:45:24: Se guardo factura cliente PDF factura cliente en RICOHPS C:\DOT\PDFCOPICLIENTE\2021\9\9\094520520.pdf 
+9/9/2021 20:45:25: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B4BNW25LJC22438D5563.dat.TXT 
+9/9/2021 20:45:27: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDFCLIENTE\2021\9\9\094525511.pdf 
+9/9/2021 20:45:28: Se guardo factura cliente PDF factura cliente en RICOHPS C:\DOT\PDFEMISOR\2021\9\9\094525511.pdf 
+9/9/2021 20:45:29: Se guardo factura cliente PDF factura cliente en RICOHPS C:\DOT\PDFCOPICLIENTE\2021\9\9\094525511.pdf 
+9/9/2021 20:45:30: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B4BQUGM1T62243972692.dat.TXT 
+9/9/2021 20:45:31: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDFCLIENTE\2021\9\9\094530534.pdf 
+9/9/2021 20:45:33: Se guardo factura cliente PDF factura cliente en RICOHPS C:\DOT\PDFEMISOR\2021\9\9\094530534.pdf 
+9/9/2021 20:45:34: Se guardo factura cliente PDF factura cliente en RICOHPS C:\DOT\PDFCOPICLIENTE\2021\9\9\094530534.pdf 
+9/9/2021 20:45:35: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B4BR3E8211E04397F991.dat.TXT 
+9/9/2021 20:45:37: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDFCLIENTE\2021\9\9\094535525.pdf 
+9/9/2021 20:45:38: Se guardo factura cliente PDF factura cliente en RICOHPS C:\DOT\PDFEMISOR\2021\9\9\094535525.pdf 
+9/9/2021 20:45:40: Se guardo factura cliente PDF factura cliente en RICOHPS C:\DOT\PDFCOPICLIENTE\2021\9\9\094535525.pdf 
+9/9/2021 20:45:41: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B4BRN2709G9F4399CA0C.dat.TXT 
+9/9/2021 20:45:42: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDFCLIENTE\2021\9\9\094541507.pdf 
+9/9/2021 20:45:44: Se guardo factura cliente PDF factura cliente en RICOHPS C:\DOT\PDFEMISOR\2021\9\9\094541507.pdf 
+9/9/2021 20:45:45: Se guardo factura cliente PDF factura cliente en RICOHPS C:\DOT\PDFCOPICLIENTE\2021\9\9\094541507.pdf 
+9/9/2021 20:45:46: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B4BS6QHV445C439B9AC4.dat.TXT 
+9/9/2021 20:45:48: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDFCLIENTE\2021\9\9\094546535.pdf 
+9/9/2021 20:45:50: Se guardo factura cliente PDF factura cliente en RICOHPS C:\DOT\PDFEMISOR\2021\9\9\094546535.pdf 
+9/9/2021 20:45:51: Se guardo factura cliente PDF factura cliente en RICOHPS C:\DOT\PDFCOPICLIENTE\2021\9\9\094546535.pdf 

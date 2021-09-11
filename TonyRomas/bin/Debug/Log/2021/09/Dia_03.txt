@@ -1,0 +1,1516 @@
+-------------LOG FECHA 3/9/2021 00:07:34
+3/9/2021 00:07:34: Aplicación inicializada correctamente  
+3/9/2021 00:07:35: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2Y9U8BDXN882C7B99E5.dat.txt 
+3/9/2021 00:07:43: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0307369553.pdf 
+3/9/2021 00:07:44: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2Y9UO9JK3AD2C7BA464.dat.txt 
+3/9/2021 00:07:46: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0307449554.pdf 
+3/9/2021 00:07:47: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2YJ88NX2VFF2C9AC999.dat.txt 
+3/9/2021 00:07:48: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0307479557.pdf 
+3/9/2021 00:07:49: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2YQUNMWHW482CB41B2A.dat.txt 
+3/9/2021 00:07:51: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0307499556.pdf 
+3/9/2021 00:07:52: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2YR9DHMO1952CB576D2.dat.txt 
+3/9/2021 00:07:54: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0307529555.pdf 
+3/9/2021 00:07:55: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2YR9S7MTPB72CB58077.dat.txt 
+3/9/2021 00:07:56: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0307559561.pdf 
+3/9/2021 00:07:57: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2YS01QNAMA02CB7ECD3.dat.txt 
+3/9/2021 00:07:59: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0307579562.pdf 
+3/9/2021 00:08:00: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2YTKYFXNP522CBD2D01.dat.txt 
+3/9/2021 00:08:02: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0308009558.pdf 
+3/9/2021 00:08:03: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2YTWNUCQYF92CBE417E.dat.txt 
+3/9/2021 00:08:05: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0308039560.pdf 
+3/9/2021 00:08:06: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2YWIB5WVPE32CC6E568.dat.txt 
+3/9/2021 00:08:10: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0308079567.pdf 
+3/9/2021 00:08:11: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2YZRZP7D63E2CD1C0F2.dat.txt 
+3/9/2021 00:08:13: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0308119566.pdf 
+3/9/2021 00:08:14: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2Z3VNBXLK502CDF608E.dat.txt 
+3/9/2021 00:08:16: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0308149564.pdf 
+3/9/2021 00:08:17: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2Z3W23991652CDF6A43.dat.txt 
+3/9/2021 00:08:18: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0308179571.pdf 
+3/9/2021 00:08:20: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2Z5S1MDJ8AB2CE5B019.dat.txt 
+3/9/2021 00:08:22: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0308209569.pdf 
+3/9/2021 00:08:23: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2Z7P1WE9P2A2CEC0DFB.dat.txt 
+3/9/2021 00:08:26: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0308239572.pdf 
+3/9/2021 00:08:27: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2Z7PGTAUE3E2CEC17CE.dat.txt 
+3/9/2021 00:08:29: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0308279576.pdf 
+3/9/2021 00:08:30: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2Z7ZKMA2G942CED0674.dat.txt 
+3/9/2021 00:08:32: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0308309568.pdf 
+3/9/2021 00:08:33: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2Z8JM5BXU112CEEDFE7.dat.txt 
+3/9/2021 00:08:34: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0308339580.pdf 
+3/9/2021 00:08:35: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2ZA9EZNAUE12CF4939F.dat.txt 
+3/9/2021 00:08:36: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0308359578.pdf 
+3/9/2021 00:08:37: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2ZA9TRL3G042CF49D43.dat.txt 
+3/9/2021 00:08:39: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0308379570.pdf 
+3/9/2021 00:08:40: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2ZAQBN25LC42CF622E9.dat.txt 
+3/9/2021 00:08:41: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0308409577.pdf 
+3/9/2021 00:08:42: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2ZCB16S47722CFB5E64.dat.txt 
+3/9/2021 00:08:43: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0308429575.pdf 
+3/9/2021 00:08:44: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2ZCBGORFU972CFB6895.dat.txt 
+3/9/2021 00:08:45: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0308449574.pdf 
+3/9/2021 00:08:46: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2ZCBWH2MRB22CFB72E6.dat.txt 
+3/9/2021 00:08:48: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0308469573.pdf 
+3/9/2021 00:08:49: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2ZCCCPAD6CA2CFB7D94.dat.txt 
+3/9/2021 00:08:50: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0308499582.pdf 
+3/9/2021 00:08:51: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2ZCCS6S5ZF12CFB87B6.dat.txt 
+3/9/2021 00:08:52: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0308519588.pdf 
+3/9/2021 00:08:53: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2ZGLGC72A1D2D099DBA.dat.txt 
+3/9/2021 00:08:55: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0308539601.pdf 
+3/9/2021 00:08:56: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2ZGVTG4VM7C2D0A928A.dat.txt 
+3/9/2021 00:08:57: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0308569589.pdf 
+3/9/2021 00:08:58: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2ZH79WTK30D2D0BA12B.dat.txt 
+3/9/2021 00:08:59: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0308589563.pdf 
+3/9/2021 00:09:00: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2ZH7PAD8J332D0BAB3E.dat.txt 
+3/9/2021 00:09:01: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0309009590.pdf 
+3/9/2021 00:09:02: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2ZHNSI635CC2D0D274E.dat.txt 
+3/9/2021 00:09:03: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0309029583.pdf 
+3/9/2021 00:09:04: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2ZHO7T49SEF2D0D3151.dat.txt 
+3/9/2021 00:09:06: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0309049592.pdf 
+3/9/2021 00:09:07: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2ZHONVWU0022D0D3BE0.dat.txt 
+3/9/2021 00:09:08: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0309079591.pdf 
+3/9/2021 00:09:09: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2ZHP44CHH242D0D467F.dat.txt 
+3/9/2021 00:09:11: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0309099586.pdf 
+3/9/2021 00:09:12: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2ZI1X6ZBR062D0E750C.dat.txt 
+3/9/2021 00:09:13: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0309129593.pdf 
+3/9/2021 00:09:14: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2ZI2D1UTQ282D0E7F6C.dat.txt 
+3/9/2021 00:09:16: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0309149597.pdf 
+3/9/2021 00:09:17: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2ZK8ZFP54CB2D15C07A.dat.txt 
+3/9/2021 00:09:18: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0309179598.pdf 
+3/9/2021 00:09:19: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2ZK9ENK8JDE2D15CA6D.dat.txt 
+3/9/2021 00:09:20: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0309199602.pdf 
+3/9/2021 00:09:21: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2ZLMGBPVODF2D1A50E0.dat.txt 
+3/9/2021 00:09:22: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0309219599.pdf 
+3/9/2021 00:09:24: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2ZMAQYWRI582D1C8EBA.dat.txt 
+3/9/2021 00:09:25: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2ZMAQYWRI582D1C8EBA.dat.txt 
+3/9/2021 00:09:26: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2ZMAQYWRI582D1C8EBA.dat.txt 
+3/9/2021 00:09:27: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2ZMAQYWRI582D1C8EBA.dat.txt 
+3/9/2021 00:09:28: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2ZMAQYWRI582D1C8EBA.dat.txt 
+3/9/2021 00:09:29: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2ZMAQYWRI582D1C8EBA.dat.txt 
+3/9/2021 00:09:30: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2ZMAQYWRI582D1C8EBA.dat.txt 
+3/9/2021 00:09:31: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2ZMAQYWRI582D1C8EBA.dat.txt 
+3/9/2021 00:09:32: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2ZMAQYWRI582D1C8EBA.dat.txt 
+3/9/2021 00:09:33: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2ZMAQYWRI582D1C8EBA.dat.txt 
+3/9/2021 00:09:34: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2ZMAQYWRI582D1C8EBA.dat.txt 
+3/9/2021 00:09:35: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2ZMAQYWRI582D1C8EBA.dat.txt 
+3/9/2021 00:09:36: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2ZMAQYWRI582D1C8EBA.dat.txt 
+3/9/2021 00:09:37: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2ZMAQYWRI582D1C8EBA.dat.txt 
+3/9/2021 00:09:38: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2ZMAQYWRI582D1C8EBA.dat.txt 
+3/9/2021 00:09:39: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2ZMAQYWRI582D1C8EBA.dat.txt 
+3/9/2021 00:09:40: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2ZMAQYWRI582D1C8EBA.dat.txt 
+3/9/2021 00:09:42: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2ZMAQYWRI582D1C8EBA.dat.txt 
+3/9/2021 00:09:43: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2ZMAQYWRI582D1C8EBA.dat.txt 
+3/9/2021 00:09:44: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2ZMAQYWRI582D1C8EBA.dat.txt 
+3/9/2021 00:09:45: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2ZMAQYWRI582D1C8EBA.dat.txt 
+3/9/2021 00:09:46: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2ZMAQYWRI582D1C8EBA.dat.txt 
+3/9/2021 00:09:47: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2ZMAQYWRI582D1C8EBA.dat.txt 
+3/9/2021 00:09:48: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2ZMAQYWRI582D1C8EBA.dat.txt 
+3/9/2021 00:09:49: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2ZMAQYWRI582D1C8EBA.dat.txt 
+3/9/2021 00:09:50: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2ZMAQYWRI582D1C8EBA.dat.txt 
+3/9/2021 00:09:51: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2ZMAQYWRI582D1C8EBA.dat.txt 
+3/9/2021 00:09:52: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2ZMAQYWRI582D1C8EBA.dat.txt 
+3/9/2021 00:09:53: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2ZMAQYWRI582D1C8EBA.dat.txt 
+3/9/2021 00:09:54: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2ZMAQYWRI582D1C8EBA.dat.txt 
+3/9/2021 00:09:55: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2ZMAQYWRI582D1C8EBA.dat.txt 
+3/9/2021 00:09:56: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2ZMAQYWRI582D1C8EBA.dat.txt 
+3/9/2021 00:09:58: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2ZMAQYWRI582D1C8EBA.dat.txt 
+3/9/2021 00:09:59: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2ZMAQYWRI582D1C8EBA.dat.txt 
+3/9/2021 00:10:00: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2ZMAQYWRI582D1C8EBA.dat.txt 
+3/9/2021 00:10:01: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2ZMAQYWRI582D1C8EBA.dat.txt 
+3/9/2021 00:10:02: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2ZMAQYWRI582D1C8EBA.dat.txt 
+3/9/2021 00:10:03: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2ZMAQYWRI582D1C8EBA.dat.txt 
+3/9/2021 00:10:04: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2ZMAQYWRI582D1C8EBA.dat.txt 
+3/9/2021 00:10:05: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2ZMAQYWRI582D1C8EBA.dat.txt 
+3/9/2021 00:10:06: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2ZMAQYWRI582D1C8EBA.dat.txt 
+3/9/2021 00:10:07: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2ZMAQYWRI582D1C8EBA.dat.txt 
+3/9/2021 00:10:08: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2ZMAQYWRI582D1C8EBA.dat.txt 
+3/9/2021 00:10:09: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2ZMAQYWRI582D1C8EBA.dat.txt 
+3/9/2021 00:10:10: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2ZMAQYWRI582D1C8EBA.dat.txt 
+3/9/2021 00:10:11: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2ZMAQYWRI582D1C8EBA.dat.txt 
+3/9/2021 00:10:12: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2ZMAQYWRI582D1C8EBA.dat.txt 
+3/9/2021 00:10:13: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2ZMAQYWRI582D1C8EBA.dat.txt 
+3/9/2021 00:10:14: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2ZMAQYWRI582D1C8EBA.dat.txt 
+3/9/2021 00:10:16: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2ZMAQYWRI582D1C8EBA.dat.txt 
+3/9/2021 00:10:17: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2ZMAQYWRI582D1C8EBA.dat.txt 
+3/9/2021 00:10:18: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2ZMAQYWRI582D1C8EBA.dat.txt 
+3/9/2021 00:10:19: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2ZMAQYWRI582D1C8EBA.dat.txt 
+3/9/2021 00:10:20: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2ZMAQYWRI582D1C8EBA.dat.txt 
+3/9/2021 00:10:21: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2ZMAQYWRI582D1C8EBA.dat.txt 
+3/9/2021 00:10:22: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2ZMAQYWRI582D1C8EBA.dat.txt 
+3/9/2021 00:10:23: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2ZMAQYWRI582D1C8EBA.dat.txt 
+3/9/2021 00:10:24: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2ZMAQYWRI582D1C8EBA.dat.txt 
+3/9/2021 00:10:25: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2ZMAQYWRI582D1C8EBA.dat.txt 
+3/9/2021 00:10:26: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2ZMAQYWRI582D1C8EBA.dat.txt 
+3/9/2021 00:10:27: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2ZMAQYWRI582D1C8EBA.dat.txt 
+3/9/2021 00:10:28: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2ZMAQYWRI582D1C8EBA.dat.txt 
+3/9/2021 00:10:29: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2ZMAQYWRI582D1C8EBA.dat.txt 
+3/9/2021 00:10:30: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2ZMAQYWRI582D1C8EBA.dat.txt 
+3/9/2021 00:10:31: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2ZMAQYWRI582D1C8EBA.dat.txt 
+3/9/2021 00:10:32: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2ZMAQYWRI582D1C8EBA.dat.txt 
+3/9/2021 00:10:33: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2ZMAQYWRI582D1C8EBA.dat.txt 
+3/9/2021 00:10:34: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2ZMAQYWRI582D1C8EBA.dat.txt 
+3/9/2021 00:10:35: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2ZMAQYWRI582D1C8EBA.dat.txt 
+3/9/2021 00:10:37: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2ZMAQYWRI582D1C8EBA.dat.txt 
+3/9/2021 00:10:38: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2ZMAQYWRI582D1C8EBA.dat.txt 
+3/9/2021 00:10:39: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2ZMAQYWRI582D1C8EBA.dat.txt 
+3/9/2021 00:10:40: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2ZMAQYWRI582D1C8EBA.dat.txt 
+3/9/2021 00:10:41: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2ZMAQYWRI582D1C8EBA.dat.txt 
+3/9/2021 00:10:42: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2ZMAQYWRI582D1C8EBA.dat.txt 
+3/9/2021 00:10:43: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2ZMAQYWRI582D1C8EBA.dat.txt 
+3/9/2021 00:10:44: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2ZMAQYWRI582D1C8EBA.dat.txt 
+3/9/2021 00:10:45: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2ZMAQYWRI582D1C8EBA.dat.txt 
+3/9/2021 00:10:46: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2ZMAQYWRI582D1C8EBA.dat.txt 
+3/9/2021 00:10:47: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2ZMAQYWRI582D1C8EBA.dat.txt 
+3/9/2021 00:10:48: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2ZMAQYWRI582D1C8EBA.dat.txt 
+3/9/2021 00:10:49: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2ZMAQYWRI582D1C8EBA.dat.txt 
+3/9/2021 00:10:50: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2ZMAQYWRI582D1C8EBA.dat.txt 
+3/9/2021 00:10:51: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2ZMAQYWRI582D1C8EBA.dat.txt 
+3/9/2021 00:10:52: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2ZMAQYWRI582D1C8EBA.dat.txt 
+3/9/2021 00:10:53: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2ZMAQYWRI582D1C8EBA.dat.txt 
+3/9/2021 00:10:54: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2ZMAQYWRI582D1C8EBA.dat.txt 
+3/9/2021 00:10:56: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2ZMAQYWRI582D1C8EBA.dat.txt 
+3/9/2021 00:10:57: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2ZMAQYWRI582D1C8EBA.dat.txt 
+3/9/2021 00:10:58: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2ZMAQYWRI582D1C8EBA.dat.txt 
+3/9/2021 00:10:59: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2ZMAQYWRI582D1C8EBA.dat.txt 
+3/9/2021 00:11:00: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2ZMAQYWRI582D1C8EBA.dat.txt 
+3/9/2021 00:11:01: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2ZMAQYWRI582D1C8EBA.dat.txt 
+3/9/2021 00:11:02: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2ZMAQYWRI582D1C8EBA.dat.txt 
+3/9/2021 00:11:03: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2ZMAQYWRI582D1C8EBA.dat.txt 
+3/9/2021 00:11:04: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2ZMAQYWRI582D1C8EBA.dat.txt 
+3/9/2021 00:11:05: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2ZMAQYWRI582D1C8EBA.dat.txt 
+3/9/2021 00:11:06: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2ZMAQYWRI582D1C8EBA.dat.txt 
+3/9/2021 00:11:07: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2ZMAQYWRI582D1C8EBA.dat.txt 
+3/9/2021 00:11:08: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2ZMAQYWRI582D1C8EBA.dat.txt 
+3/9/2021 00:11:09: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2ZMAQYWRI582D1C8EBA.dat.txt 
+3/9/2021 00:11:10: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2ZMAQYWRI582D1C8EBA.dat.txt 
+3/9/2021 00:11:11: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2ZMAQYWRI582D1C8EBA.dat.txt 
+3/9/2021 00:11:12: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2ZMAQYWRI582D1C8EBA.dat.txt 
+3/9/2021 00:11:13: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2ZMAQYWRI582D1C8EBA.dat.txt 
+3/9/2021 00:11:14: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2ZMAQYWRI582D1C8EBA.dat.txt 
+3/9/2021 00:11:16: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2ZMAQYWRI582D1C8EBA.dat.txt 
+3/9/2021 00:11:17: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2ZMAQYWRI582D1C8EBA.dat.txt 
+3/9/2021 00:11:18: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2ZMAQYWRI582D1C8EBA.dat.txt 
+3/9/2021 00:11:19: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2ZMAQYWRI582D1C8EBA.dat.txt 
+3/9/2021 00:11:20: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2ZMAQYWRI582D1C8EBA.dat.txt 
+3/9/2021 00:11:21: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2ZMAQYWRI582D1C8EBA.dat.txt 
+3/9/2021 00:11:22: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2ZMAQYWRI582D1C8EBA.dat.txt 
+3/9/2021 00:11:23: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2ZMAQYWRI582D1C8EBA.dat.txt 
+3/9/2021 00:11:24: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2ZMAQYWRI582D1C8EBA.dat.txt 
+3/9/2021 00:11:25: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2ZMAQYWRI582D1C8EBA.dat.txt 
+3/9/2021 00:11:26: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2ZMAQYWRI582D1C8EBA.dat.txt 
+3/9/2021 00:11:27: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2ZNKWGIMBAD2D20D0E0.dat.txt 
+3/9/2021 00:11:29: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0311279579.pdf 
+3/9/2021 00:11:30: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2ZNRQ02DE462D2171F3.dat.txt 
+3/9/2021 00:11:31: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0311309603.pdf 
+3/9/2021 00:11:32: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2ZSMQM03M872D3197CC.dat.txt 
+3/9/2021 00:11:33: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0311329594.pdf 
+3/9/2021 00:11:34: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2ZSN6FIZG9D2D31A22C.dat.txt 
+3/9/2021 00:11:36: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0311349596.pdf 
+3/9/2021 00:11:37: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2ZULNH6B9FF2D3822B9.dat.txt 
+3/9/2021 00:11:38: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0311379605.pdf 
+3/9/2021 00:11:39: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307MTMC8W5D2D636C54.dat.txt 
+3/9/2021 00:11:40: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307MTMC8W5D2D636C54.dat.txt 
+3/9/2021 00:11:41: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307MTMC8W5D2D636C54.dat.txt 
+3/9/2021 00:11:42: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307MTMC8W5D2D636C54.dat.txt 
+3/9/2021 00:11:43: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307MTMC8W5D2D636C54.dat.txt 
+3/9/2021 00:11:44: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307MTMC8W5D2D636C54.dat.txt 
+3/9/2021 00:11:45: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307MTMC8W5D2D636C54.dat.txt 
+3/9/2021 00:11:46: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307MTMC8W5D2D636C54.dat.txt 
+3/9/2021 00:11:47: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307MTMC8W5D2D636C54.dat.txt 
+3/9/2021 00:11:48: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307MTMC8W5D2D636C54.dat.txt 
+3/9/2021 00:11:49: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307MTMC8W5D2D636C54.dat.txt 
+3/9/2021 00:11:50: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307MTMC8W5D2D636C54.dat.txt 
+3/9/2021 00:11:52: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307MTMC8W5D2D636C54.dat.txt 
+3/9/2021 00:11:53: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307MTMC8W5D2D636C54.dat.txt 
+3/9/2021 00:11:54: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307MTMC8W5D2D636C54.dat.txt 
+3/9/2021 00:11:55: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307MTMC8W5D2D636C54.dat.txt 
+3/9/2021 00:11:56: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307MTMC8W5D2D636C54.dat.txt 
+3/9/2021 00:11:57: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307MTMC8W5D2D636C54.dat.txt 
+3/9/2021 00:11:58: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307MTMC8W5D2D636C54.dat.txt 
+3/9/2021 00:11:59: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307MTMC8W5D2D636C54.dat.txt 
+3/9/2021 00:12:00: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307MTMC8W5D2D636C54.dat.txt 
+3/9/2021 00:12:01: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307MTMC8W5D2D636C54.dat.txt 
+3/9/2021 00:12:02: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307MTMC8W5D2D636C54.dat.txt 
+3/9/2021 00:12:03: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307MTMC8W5D2D636C54.dat.txt 
+3/9/2021 00:12:04: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307MTMC8W5D2D636C54.dat.txt 
+3/9/2021 00:12:05: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307MTMC8W5D2D636C54.dat.txt 
+3/9/2021 00:12:06: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307MTMC8W5D2D636C54.dat.txt 
+3/9/2021 00:12:07: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307MTMC8W5D2D636C54.dat.txt 
+3/9/2021 00:12:08: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307MTMC8W5D2D636C54.dat.txt 
+3/9/2021 00:12:09: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307MTMC8W5D2D636C54.dat.txt 
+3/9/2021 00:12:10: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307MTMC8W5D2D636C54.dat.txt 
+3/9/2021 00:12:12: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307MTMC8W5D2D636C54.dat.txt 
+3/9/2021 00:12:13: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307MTMC8W5D2D636C54.dat.txt 
+3/9/2021 00:12:14: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307MTMC8W5D2D636C54.dat.txt 
+3/9/2021 00:12:15: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307MTMC8W5D2D636C54.dat.txt 
+3/9/2021 00:12:16: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307MTMC8W5D2D636C54.dat.txt 
+3/9/2021 00:12:17: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307MTMC8W5D2D636C54.dat.txt 
+3/9/2021 00:12:18: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307MTMC8W5D2D636C54.dat.txt 
+3/9/2021 00:12:19: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307MTMC8W5D2D636C54.dat.txt 
+3/9/2021 00:12:20: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307MTMC8W5D2D636C54.dat.txt 
+3/9/2021 00:12:21: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307MTMC8W5D2D636C54.dat.txt 
+3/9/2021 00:12:22: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307MTMC8W5D2D636C54.dat.txt 
+3/9/2021 00:12:23: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307MTMC8W5D2D636C54.dat.txt 
+3/9/2021 00:12:24: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307MTMC8W5D2D636C54.dat.txt 
+3/9/2021 00:12:25: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307MTMC8W5D2D636C54.dat.txt 
+3/9/2021 00:12:26: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307MTMC8W5D2D636C54.dat.txt 
+3/9/2021 00:12:27: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307MTMC8W5D2D636C54.dat.txt 
+3/9/2021 00:12:28: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307MTMC8W5D2D636C54.dat.txt 
+3/9/2021 00:12:29: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307MTMC8W5D2D636C54.dat.txt 
+3/9/2021 00:12:30: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307MTMC8W5D2D636C54.dat.txt 
+3/9/2021 00:12:31: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307MTMC8W5D2D636C54.dat.txt 
+3/9/2021 00:12:32: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307MTMC8W5D2D636C54.dat.txt 
+3/9/2021 00:12:34: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307MTMC8W5D2D636C54.dat.txt 
+3/9/2021 00:12:35: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307MTMC8W5D2D636C54.dat.txt 
+3/9/2021 00:12:36: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307MTMC8W5D2D636C54.dat.txt 
+3/9/2021 00:12:37: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307MTMC8W5D2D636C54.dat.txt 
+3/9/2021 00:12:38: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307MTMC8W5D2D636C54.dat.txt 
+3/9/2021 00:12:39: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307MTMC8W5D2D636C54.dat.txt 
+3/9/2021 00:12:40: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307MTMC8W5D2D636C54.dat.txt 
+3/9/2021 00:12:41: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307MTMC8W5D2D636C54.dat.txt 
+3/9/2021 00:12:42: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307MTMC8W5D2D636C54.dat.txt 
+3/9/2021 00:12:43: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307MTMC8W5D2D636C54.dat.txt 
+3/9/2021 00:12:44: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307MTMC8W5D2D636C54.dat.txt 
+3/9/2021 00:12:45: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307MTMC8W5D2D636C54.dat.txt 
+3/9/2021 00:12:46: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307MTMC8W5D2D636C54.dat.txt 
+3/9/2021 00:12:47: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307MTMC8W5D2D636C54.dat.txt 
+3/9/2021 00:12:48: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307MTMC8W5D2D636C54.dat.txt 
+3/9/2021 00:12:49: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307MTMC8W5D2D636C54.dat.txt 
+3/9/2021 00:12:51: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307MTMC8W5D2D636C54.dat.txt 
+3/9/2021 00:12:52: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307MTMC8W5D2D636C54.dat.txt 
+3/9/2021 00:12:53: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307MTMC8W5D2D636C54.dat.txt 
+3/9/2021 00:12:54: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307MTMC8W5D2D636C54.dat.txt 
+3/9/2021 00:12:55: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307MTMC8W5D2D636C54.dat.txt 
+3/9/2021 00:12:56: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307MTMC8W5D2D636C54.dat.txt 
+3/9/2021 00:12:57: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307MTMC8W5D2D636C54.dat.txt 
+3/9/2021 00:12:58: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307MTMC8W5D2D636C54.dat.txt 
+3/9/2021 00:12:59: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307MTMC8W5D2D636C54.dat.txt 
+3/9/2021 00:13:00: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307MTMC8W5D2D636C54.dat.txt 
+3/9/2021 00:13:01: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307MTMC8W5D2D636C54.dat.txt 
+3/9/2021 00:13:02: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307MTMC8W5D2D636C54.dat.txt 
+3/9/2021 00:13:03: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307MTMC8W5D2D636C54.dat.txt 
+3/9/2021 00:13:04: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307MTMC8W5D2D636C54.dat.txt 
+3/9/2021 00:13:06: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307MTMC8W5D2D636C54.dat.txt 
+3/9/2021 00:13:07: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307MTMC8W5D2D636C54.dat.txt 
+3/9/2021 00:13:08: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307MTMC8W5D2D636C54.dat.txt 
+3/9/2021 00:13:09: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307MTMC8W5D2D636C54.dat.txt 
+3/9/2021 00:13:10: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307MTMC8W5D2D636C54.dat.txt 
+3/9/2021 00:13:11: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307MTMC8W5D2D636C54.dat.txt 
+3/9/2021 00:13:12: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307MTMC8W5D2D636C54.dat.txt 
+3/9/2021 00:13:13: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307MTMC8W5D2D636C54.dat.txt 
+3/9/2021 00:13:14: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307MTMC8W5D2D636C54.dat.txt 
+3/9/2021 00:13:15: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307MTMC8W5D2D636C54.dat.txt 
+3/9/2021 00:13:16: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307MTMC8W5D2D636C54.dat.txt 
+3/9/2021 00:13:17: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307MTMC8W5D2D636C54.dat.txt 
+3/9/2021 00:13:18: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307MTMC8W5D2D636C54.dat.txt 
+3/9/2021 00:13:19: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307MTMC8W5D2D636C54.dat.txt 
+3/9/2021 00:13:20: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307MTMC8W5D2D636C54.dat.txt 
+3/9/2021 00:13:21: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307MTMC8W5D2D636C54.dat.txt 
+3/9/2021 00:13:22: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307MTMC8W5D2D636C54.dat.txt 
+3/9/2021 00:13:23: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307MTMC8W5D2D636C54.dat.txt 
+3/9/2021 00:13:25: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307MTMC8W5D2D636C54.dat.txt 
+3/9/2021 00:13:26: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307MTMC8W5D2D636C54.dat.txt 
+3/9/2021 00:13:27: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307MTMC8W5D2D636C54.dat.txt 
+3/9/2021 00:13:28: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307MTMC8W5D2D636C54.dat.txt 
+3/9/2021 00:13:29: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307MTMC8W5D2D636C54.dat.txt 
+3/9/2021 00:13:30: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307MTMC8W5D2D636C54.dat.txt 
+3/9/2021 00:13:31: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307MTMC8W5D2D636C54.dat.txt 
+3/9/2021 00:13:32: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307MTMC8W5D2D636C54.dat.txt 
+3/9/2021 00:13:33: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307MTMC8W5D2D636C54.dat.txt 
+3/9/2021 00:13:34: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307MTMC8W5D2D636C54.dat.txt 
+3/9/2021 00:13:35: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307MTMC8W5D2D636C54.dat.txt 
+3/9/2021 00:13:36: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307MTMC8W5D2D636C54.dat.txt 
+3/9/2021 00:13:37: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307MTMC8W5D2D636C54.dat.txt 
+3/9/2021 00:13:38: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307MTMC8W5D2D636C54.dat.txt 
+3/9/2021 00:13:40: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307MTMC8W5D2D636C54.dat.txt 
+3/9/2021 00:13:41: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307MTMC8W5D2D636C54.dat.txt 
+3/9/2021 00:13:42: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307MTMC8W5D2D636C54.dat.txt 
+3/9/2021 00:13:43: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307MTMC8W5D2D636C54.dat.txt 
+3/9/2021 00:13:44: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307MTMC8W5D2D636C54.dat.txt 
+3/9/2021 00:13:45: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307MTMC8W5D2D636C54.dat.txt 
+3/9/2021 00:13:46: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307MTMC8W5D2D636C54.dat.txt 
+3/9/2021 00:13:47: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307MTMC8W5D2D636C54.dat.txt 
+3/9/2021 00:13:48: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307MTMC8W5D2D636C54.dat.txt 
+3/9/2021 00:13:49: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307MTMC8W5D2D636C54.dat.txt 
+3/9/2021 00:13:50: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307MTMC8W5D2D636C54.dat.txt 
+3/9/2021 00:13:51: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307MTMC8W5D2D636C54.dat.txt 
+3/9/2021 00:13:52: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307MTMC8W5D2D636C54.dat.txt 
+3/9/2021 00:13:53: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307MTMC8W5D2D636C54.dat.txt 
+3/9/2021 00:13:54: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307MTMC8W5D2D636C54.dat.txt 
+3/9/2021 00:13:55: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307MTMC8W5D2D636C54.dat.txt 
+3/9/2021 00:13:57: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307MTMC8W5D2D636C54.dat.txt 
+3/9/2021 00:13:58: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307MTMC8W5D2D636C54.dat.txt 
+3/9/2021 00:13:59: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307MTMC8W5D2D636C54.dat.txt 
+3/9/2021 00:14:00: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307MTMC8W5D2D636C54.dat.txt 
+3/9/2021 00:14:01: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307MTMC8W5D2D636C54.dat.txt 
+3/9/2021 00:14:02: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307MTMC8W5D2D636C54.dat.txt 
+3/9/2021 00:14:03: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307MTMC8W5D2D636C54.dat.txt 
+3/9/2021 00:14:04: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307MTMC8W5D2D636C54.dat.txt 
+3/9/2021 00:14:05: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307MTMC8W5D2D636C54.dat.txt 
+3/9/2021 00:14:06: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307MTMC8W5D2D636C54.dat.txt 
+3/9/2021 00:14:07: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307MTMC8W5D2D636C54.dat.txt 
+3/9/2021 00:14:08: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307MTMC8W5D2D636C54.dat.txt 
+3/9/2021 00:14:09: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307MTMC8W5D2D636C54.dat.txt 
+3/9/2021 00:14:10: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307MTMC8W5D2D636C54.dat.txt 
+3/9/2021 00:14:11: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307MTMC8W5D2D636C54.dat.txt 
+3/9/2021 00:14:12: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307MTMC8W5D2D636C54.dat.txt 
+3/9/2021 00:14:14: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307MTMC8W5D2D636C54.dat.txt 
+3/9/2021 00:14:15: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307MTMC8W5D2D636C54.dat.txt 
+3/9/2021 00:14:16: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307MTMC8W5D2D636C54.dat.txt 
+3/9/2021 00:14:17: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307MTMC8W5D2D636C54.dat.txt 
+3/9/2021 00:14:18: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307MTMC8W5D2D636C54.dat.txt 
+3/9/2021 00:14:19: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307MTMC8W5D2D636C54.dat.txt 
+3/9/2021 00:14:20: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307MTMC8W5D2D636C54.dat.txt 
+3/9/2021 00:14:21: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307MTMC8W5D2D636C54.dat.txt 
+3/9/2021 00:14:22: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307MTMC8W5D2D636C54.dat.txt 
+3/9/2021 00:14:23: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307MTMC8W5D2D636C54.dat.txt 
+3/9/2021 00:14:24: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307MTMC8W5D2D636C54.dat.txt 
+3/9/2021 00:14:25: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307MTMC8W5D2D636C54.dat.txt 
+3/9/2021 00:14:26: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307MTMC8W5D2D636C54.dat.txt 
+3/9/2021 00:14:27: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307MTMC8W5D2D636C54.dat.txt 
+3/9/2021 00:14:28: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307MTMC8W5D2D636C54.dat.txt 
+3/9/2021 00:14:29: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307MTMC8W5D2D636C54.dat.txt 
+3/9/2021 00:14:30: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307MTMC8W5D2D636C54.dat.txt 
+3/9/2021 00:14:32: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307MTMC8W5D2D636C54.dat.txt 
+3/9/2021 00:14:33: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307MTMC8W5D2D636C54.dat.txt 
+3/9/2021 00:14:34: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307MTMC8W5D2D636C54.dat.txt 
+3/9/2021 00:14:35: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307MTMC8W5D2D636C54.dat.txt 
+3/9/2021 00:14:36: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307MTMC8W5D2D636C54.dat.txt 
+3/9/2021 00:14:37: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307MTMC8W5D2D636C54.dat.txt 
+3/9/2021 00:14:38: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307MTMC8W5D2D636C54.dat.txt 
+3/9/2021 00:14:39: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307MTMC8W5D2D636C54.dat.txt 
+3/9/2021 00:14:40: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307MTMC8W5D2D636C54.dat.txt 
+3/9/2021 00:14:41: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307MTMC8W5D2D636C54.dat.txt 
+3/9/2021 00:14:42: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307MTMC8W5D2D636C54.dat.txt 
+3/9/2021 00:14:43: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307MTMC8W5D2D636C54.dat.txt 
+3/9/2021 00:14:44: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307MTMC8W5D2D636C54.dat.txt 
+3/9/2021 00:14:45: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307MTMC8W5D2D636C54.dat.txt 
+3/9/2021 00:14:46: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307MTMC8W5D2D636C54.dat.txt 
+3/9/2021 00:14:47: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307MTMC8W5D2D636C54.dat.txt 
+3/9/2021 00:14:48: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307MTMC8W5D2D636C54.dat.txt 
+3/9/2021 00:14:49: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307MTMC8W5D2D636C54.dat.txt 
+3/9/2021 00:14:50: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307MTMC8W5D2D636C54.dat.txt 
+3/9/2021 00:14:52: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307MTMC8W5D2D636C54.dat.txt 
+3/9/2021 00:14:53: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307MTMC8W5D2D636C54.dat.txt 
+3/9/2021 00:14:54: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307MTMC8W5D2D636C54.dat.txt 
+3/9/2021 00:14:55: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307MTMC8W5D2D636C54.dat.txt 
+3/9/2021 00:14:56: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307MTMC8W5D2D636C54.dat.txt 
+3/9/2021 00:14:57: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307MTMC8W5D2D636C54.dat.txt 
+3/9/2021 00:14:58: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307MTMC8W5D2D636C54.dat.txt 
+3/9/2021 00:14:59: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307MTMC8W5D2D636C54.dat.txt 
+3/9/2021 00:15:00: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307MTMC8W5D2D636C54.dat.txt 
+3/9/2021 00:15:01: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307MTMC8W5D2D636C54.dat.txt 
+3/9/2021 00:15:02: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307MTMC8W5D2D636C54.dat.txt 
+3/9/2021 00:15:03: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307MTMC8W5D2D636C54.dat.txt 
+3/9/2021 00:15:04: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307MTMC8W5D2D636C54.dat.txt 
+3/9/2021 00:15:05: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307MTMC8W5D2D636C54.dat.txt 
+3/9/2021 00:15:06: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307MTMC8W5D2D636C54.dat.txt 
+3/9/2021 00:15:07: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307MTMC8W5D2D636C54.dat.txt 
+3/9/2021 00:15:09: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307MTMC8W5D2D636C54.dat.txt 
+3/9/2021 00:15:10: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307MTMC8W5D2D636C54.dat.txt 
+3/9/2021 00:15:11: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307MTMC8W5D2D636C54.dat.txt 
+3/9/2021 00:15:12: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307MTMC8W5D2D636C54.dat.txt 
+3/9/2021 00:15:13: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307MTMC8W5D2D636C54.dat.txt 
+3/9/2021 00:15:14: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307MTMC8W5D2D636C54.dat.txt 
+3/9/2021 00:15:15: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307MTMC8W5D2D636C54.dat.txt 
+3/9/2021 00:15:16: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307MTMC8W5D2D636C54.dat.txt 
+3/9/2021 00:15:17: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307MTMC8W5D2D636C54.dat.txt 
+3/9/2021 00:15:18: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307MTMC8W5D2D636C54.dat.txt 
+3/9/2021 00:15:19: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307MTMC8W5D2D636C54.dat.txt 
+3/9/2021 00:15:20: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307MTMC8W5D2D636C54.dat.txt 
+3/9/2021 00:15:21: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307MTMC8W5D2D636C54.dat.txt 
+3/9/2021 00:15:22: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307MTMC8W5D2D636C54.dat.txt 
+3/9/2021 00:15:23: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307MTMC8W5D2D636C54.dat.txt 
+3/9/2021 00:15:24: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307MTMC8W5D2D636C54.dat.txt 
+3/9/2021 00:15:26: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307MTMC8W5D2D636C54.dat.txt 
+3/9/2021 00:15:27: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307MTMC8W5D2D636C54.dat.txt 
+3/9/2021 00:15:28: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307MTMC8W5D2D636C54.dat.txt 
+3/9/2021 00:15:29: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307MTMC8W5D2D636C54.dat.txt 
+3/9/2021 00:15:30: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307N8RR9A792D637647.dat.txt 
+3/9/2021 00:15:31: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307N8RR9A792D637647.dat.txt 
+3/9/2021 00:15:32: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307N8RR9A792D637647.dat.txt 
+3/9/2021 00:15:33: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307N8RR9A792D637647.dat.txt 
+3/9/2021 00:15:34: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307N8RR9A792D637647.dat.txt 
+3/9/2021 00:15:35: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307N8RR9A792D637647.dat.txt 
+3/9/2021 00:15:36: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307N8RR9A792D637647.dat.txt 
+3/9/2021 00:15:37: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307N8RR9A792D637647.dat.txt 
+3/9/2021 00:15:38: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307N8RR9A792D637647.dat.txt 
+3/9/2021 00:15:39: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307N8RR9A792D637647.dat.txt 
+3/9/2021 00:15:40: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307N8RR9A792D637647.dat.txt 
+3/9/2021 00:15:41: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307N8RR9A792D637647.dat.txt 
+3/9/2021 00:15:42: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307N8RR9A792D637647.dat.txt 
+3/9/2021 00:15:44: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307N8RR9A792D637647.dat.txt 
+3/9/2021 00:15:45: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307N8RR9A792D637647.dat.txt 
+3/9/2021 00:15:46: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307N8RR9A792D637647.dat.txt 
+3/9/2021 00:15:47: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307N8RR9A792D637647.dat.txt 
+3/9/2021 00:15:48: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307N8RR9A792D637647.dat.txt 
+3/9/2021 00:15:49: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307N8RR9A792D637647.dat.txt 
+3/9/2021 00:15:50: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307N8RR9A792D637647.dat.txt 
+3/9/2021 00:15:51: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307N8RR9A792D637647.dat.txt 
+3/9/2021 00:15:52: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307N8RR9A792D637647.dat.txt 
+3/9/2021 00:15:53: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307N8RR9A792D637647.dat.txt 
+3/9/2021 00:15:54: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307N8RR9A792D637647.dat.txt 
+3/9/2021 00:15:55: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307N8RR9A792D637647.dat.txt 
+3/9/2021 00:15:56: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307N8RR9A792D637647.dat.txt 
+3/9/2021 00:15:57: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307N8RR9A792D637647.dat.txt 
+3/9/2021 00:15:58: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307N8RR9A792D637647.dat.txt 
+3/9/2021 00:15:59: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307N8RR9A792D637647.dat.txt 
+3/9/2021 00:16:00: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307N8RR9A792D637647.dat.txt 
+3/9/2021 00:16:02: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307N8RR9A792D637647.dat.txt 
+3/9/2021 00:16:03: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307N8RR9A792D637647.dat.txt 
+3/9/2021 00:16:04: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307N8RR9A792D637647.dat.txt 
+3/9/2021 00:16:05: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307N8RR9A792D637647.dat.txt 
+3/9/2021 00:16:06: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307N8RR9A792D637647.dat.txt 
+3/9/2021 00:16:07: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307N8RR9A792D637647.dat.txt 
+3/9/2021 00:16:08: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307N8RR9A792D637647.dat.txt 
+3/9/2021 00:16:09: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307N8RR9A792D637647.dat.txt 
+3/9/2021 00:16:10: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307N8RR9A792D637647.dat.txt 
+3/9/2021 00:16:11: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307N8RR9A792D637647.dat.txt 
+3/9/2021 00:16:12: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307N8RR9A792D637647.dat.txt 
+3/9/2021 00:16:13: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307N8RR9A792D637647.dat.txt 
+3/9/2021 00:16:14: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307N8RR9A792D637647.dat.txt 
+3/9/2021 00:16:15: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307N8RR9A792D637647.dat.txt 
+3/9/2021 00:16:16: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307N8RR9A792D637647.dat.txt 
+3/9/2021 00:16:18: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307N8RR9A792D637647.dat.txt 
+3/9/2021 00:16:19: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307N8RR9A792D637647.dat.txt 
+3/9/2021 00:16:20: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307N8RR9A792D637647.dat.txt 
+3/9/2021 00:16:21: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307N8RR9A792D637647.dat.txt 
+3/9/2021 00:16:22: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307N8RR9A792D637647.dat.txt 
+3/9/2021 00:16:23: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307N8RR9A792D637647.dat.txt 
+3/9/2021 00:16:24: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307N8RR9A792D637647.dat.txt 
+3/9/2021 00:16:25: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307N8RR9A792D637647.dat.txt 
+3/9/2021 00:16:26: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307N8RR9A792D637647.dat.txt 
+3/9/2021 00:16:27: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307N8RR9A792D637647.dat.txt 
+3/9/2021 00:16:28: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307N8RR9A792D637647.dat.txt 
+3/9/2021 00:16:29: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307N8RR9A792D637647.dat.txt 
+3/9/2021 00:16:30: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307N8RR9A792D637647.dat.txt 
+3/9/2021 00:16:31: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307N8RR9A792D637647.dat.txt 
+3/9/2021 00:16:32: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307N8RR9A792D637647.dat.txt 
+3/9/2021 00:16:34: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307N8RR9A792D637647.dat.txt 
+3/9/2021 00:16:35: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307N8RR9A792D637647.dat.txt 
+3/9/2021 00:16:36: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307N8RR9A792D637647.dat.txt 
+3/9/2021 00:16:37: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307N8RR9A792D637647.dat.txt 
+3/9/2021 00:16:38: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307N8RR9A792D637647.dat.txt 
+3/9/2021 00:16:39: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307N8RR9A792D637647.dat.txt 
+3/9/2021 00:16:40: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307N8RR9A792D637647.dat.txt 
+3/9/2021 00:16:41: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307N8RR9A792D637647.dat.txt 
+3/9/2021 00:16:42: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307N8RR9A792D637647.dat.txt 
+3/9/2021 00:16:43: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307N8RR9A792D637647.dat.txt 
+3/9/2021 00:16:44: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307N8RR9A792D637647.dat.txt 
+3/9/2021 00:16:45: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307N8RR9A792D637647.dat.txt 
+3/9/2021 00:16:46: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307N8RR9A792D637647.dat.txt 
+3/9/2021 00:16:47: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307N8RR9A792D637647.dat.txt 
+3/9/2021 00:16:48: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307N8RR9A792D637647.dat.txt 
+3/9/2021 00:16:49: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307N8RR9A792D637647.dat.txt 
+3/9/2021 00:16:50: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307N8RR9A792D637647.dat.txt 
+3/9/2021 00:16:51: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307N8RR9A792D637647.dat.txt 
+3/9/2021 00:16:52: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307N8RR9A792D637647.dat.txt 
+3/9/2021 00:16:53: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307N8RR9A792D637647.dat.txt 
+3/9/2021 00:16:55: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307N8RR9A792D637647.dat.txt 
+3/9/2021 00:16:56: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307N8RR9A792D637647.dat.txt 
+3/9/2021 00:16:57: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307N8RR9A792D637647.dat.txt 
+3/9/2021 00:16:58: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307N8RR9A792D637647.dat.txt 
+3/9/2021 00:16:59: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307N8RR9A792D637647.dat.txt 
+3/9/2021 00:17:00: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307N8RR9A792D637647.dat.txt 
+3/9/2021 00:17:01: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307N8RR9A792D637647.dat.txt 
+3/9/2021 00:17:02: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307N8RR9A792D637647.dat.txt 
+3/9/2021 00:17:03: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307N8RR9A792D637647.dat.txt 
+3/9/2021 00:17:04: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307N8RR9A792D637647.dat.txt 
+3/9/2021 00:17:05: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307N8RR9A792D637647.dat.txt 
+3/9/2021 00:17:06: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307N8RR9A792D637647.dat.txt 
+3/9/2021 00:17:07: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307N8RR9A792D637647.dat.txt 
+3/9/2021 00:17:08: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307N8RR9A792D637647.dat.txt 
+3/9/2021 00:17:09: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307N8RR9A792D637647.dat.txt 
+3/9/2021 00:17:10: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307N8RR9A792D637647.dat.txt 
+3/9/2021 00:17:12: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307N8RR9A792D637647.dat.txt 
+3/9/2021 00:17:13: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307N8RR9A792D637647.dat.txt 
+3/9/2021 00:17:14: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307N8RR9A792D637647.dat.txt 
+3/9/2021 00:17:15: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307N8RR9A792D637647.dat.txt 
+3/9/2021 00:17:16: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307N8RR9A792D637647.dat.txt 
+3/9/2021 00:17:17: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307N8RR9A792D637647.dat.txt 
+3/9/2021 00:17:18: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307N8RR9A792D637647.dat.txt 
+3/9/2021 00:17:19: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307N8RR9A792D637647.dat.txt 
+3/9/2021 00:17:20: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307N8RR9A792D637647.dat.txt 
+3/9/2021 00:17:21: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307N8RR9A792D637647.dat.txt 
+3/9/2021 00:17:22: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307N8RR9A792D637647.dat.txt 
+3/9/2021 00:17:23: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307N8RR9A792D637647.dat.txt 
+3/9/2021 00:17:24: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307N8RR9A792D637647.dat.txt 
+3/9/2021 00:17:25: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307N8RR9A792D637647.dat.txt 
+3/9/2021 00:17:26: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307N8RR9A792D637647.dat.txt 
+3/9/2021 00:17:28: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307N8RR9A792D637647.dat.txt 
+3/9/2021 00:17:29: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307N8RR9A792D637647.dat.txt 
+3/9/2021 00:17:30: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307N8RR9A792D637647.dat.txt 
+3/9/2021 00:17:31: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307N8RR9A792D637647.dat.txt 
+3/9/2021 00:17:32: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307N8RR9A792D637647.dat.txt 
+3/9/2021 00:17:33: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307N8RR9A792D637647.dat.txt 
+3/9/2021 00:17:34: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307N8RR9A792D637647.dat.txt 
+3/9/2021 00:17:35: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307NNZ0L89E2D63803A.dat.txt 
+3/9/2021 00:17:36: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307NNZ0L89E2D63803A.dat.txt 
+3/9/2021 00:17:37: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307NNZ0L89E2D63803A.dat.txt 
+3/9/2021 00:17:38: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307NNZ0L89E2D63803A.dat.txt 
+3/9/2021 00:17:39: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307NNZ0L89E2D63803A.dat.txt 
+3/9/2021 00:17:40: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307NNZ0L89E2D63803A.dat.txt 
+3/9/2021 00:17:41: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307NNZ0L89E2D63803A.dat.txt 
+3/9/2021 00:17:42: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307NNZ0L89E2D63803A.dat.txt 
+3/9/2021 00:17:43: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307NNZ0L89E2D63803A.dat.txt 
+3/9/2021 00:17:45: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307NNZ0L89E2D63803A.dat.txt 
+3/9/2021 00:17:46: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307NNZ0L89E2D63803A.dat.txt 
+3/9/2021 00:17:47: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307NNZ0L89E2D63803A.dat.txt 
+3/9/2021 00:20:38: Aplicación inicializada correctamente  
+3/9/2021 00:20:39: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307NNZ0L89E2D63803A.dat.txt 
+3/9/2021 00:22:45: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307NNZ0L89E2D63803A.dat.txt 
+3/9/2021 00:22:46: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307NNZ0L89E2D63803A.dat.txt 
+3/9/2021 00:22:47: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307NNZ0L89E2D63803A.dat.txt 
+3/9/2021 00:22:48: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307NNZ0L89E2D63803A.dat.txt 
+3/9/2021 00:22:50: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307NNZ0L89E2D63803A.dat.txt 
+3/9/2021 00:22:51: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307NNZ0L89E2D63803A.dat.txt 
+3/9/2021 00:22:52: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307NNZ0L89E2D63803A.dat.txt 
+3/9/2021 00:22:53: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307NNZ0L89E2D63803A.dat.txt 
+3/9/2021 00:22:54: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307NNZ0L89E2D63803A.dat.txt 
+3/9/2021 00:22:55: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307NNZ0L89E2D63803A.dat.txt 
+3/9/2021 00:22:56: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307NNZ0L89E2D63803A.dat.txt 
+3/9/2021 00:22:57: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307NNZ0L89E2D63803A.dat.txt 
+3/9/2021 00:22:58: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307NNZ0L89E2D63803A.dat.txt 
+3/9/2021 00:23:55: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307NNZ0L89E2D63803A.dat.txt 
+3/9/2021 00:23:56: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307NNZ0L89E2D63803A.dat.txt 
+3/9/2021 00:23:57: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307NNZ0L89E2D63803A.dat.txt 
+3/9/2021 00:23:58: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307NNZ0L89E2D63803A.dat.txt 
+3/9/2021 00:23:59: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307NNZ0L89E2D63803A.dat.txt 
+3/9/2021 00:24:00: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307NNZ0L89E2D63803A.dat.txt 
+3/9/2021 00:24:01: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307NNZ0L89E2D63803A.dat.txt 
+3/9/2021 00:24:22: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307NNZ0L89E2D63803A.dat.txt 
+3/9/2021 00:24:23: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307NNZ0L89E2D63803A.dat.txt 
+3/9/2021 00:24:24: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307NNZ0L89E2D63803A.dat.txt 
+3/9/2021 00:24:25: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307NNZ0L89E2D63803A.dat.txt 
+3/9/2021 00:24:26: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307NNZ0L89E2D63803A.dat.txt 
+3/9/2021 00:24:27: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307NNZ0L89E2D63803A.dat.txt 
+3/9/2021 00:24:57: Aplicación inicializada correctamente  
+3/9/2021 00:24:58: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2ZMAQYWRI582D1C8EBA.dat.txt 
+3/9/2021 00:24:59: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2ZMAQYWRI582D1C8EBA.dat.txt 
+3/9/2021 00:25:00: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2ZMAQYWRI582D1C8EBA.dat.txt 
+3/9/2021 00:25:01: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2ZMAQYWRI582D1C8EBA.dat.txt 
+3/9/2021 00:26:12: Aplicación inicializada correctamente  
+3/9/2021 00:26:13: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2ZMAQYWRI582D1C8EBA.dat.txt 
+3/9/2021 11:13:44: Aplicación inicializada correctamente  
+3/9/2021 11:13:45: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2YR9DHMO1952CB576D2.dat.txt 
+3/9/2021 11:13:46: REIMPRESION  
+3/9/2021 11:13:47: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2ZMAQYWRI582D1C8EBA.dat.txt 
+3/9/2021 11:14:07: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0313489584.pdf 
+3/9/2021 11:14:08: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307MTMC8W5D2D636C54.dat.txt 
+3/9/2021 11:14:09: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0314089622.pdf 
+3/9/2021 11:14:10: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307N8RR9A792D637647.dat.txt 
+3/9/2021 11:14:11: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0314109619.pdf 
+3/9/2021 11:14:12: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B30CCEQ11V9B2D7311E2.dat.txt 
+3/9/2021 11:14:13: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0314129638.pdf 
+3/9/2021 11:18:06: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B347BCJ0VR112F40A94D.dat.txt 
+3/9/2021 11:18:07: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0318069742.pdf 
+3/9/2021 11:22:44: Aplicación inicializada correctamente  
+3/9/2021 11:22:45: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2Y9U8BDXN882C7B99E5.dat.txt 
+3/9/2021 11:22:50: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0322459553.pdf 
+3/9/2021 11:22:51: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2Y9UO9JK3AD2C7BA464.dat.txt 
+3/9/2021 11:22:52: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0322519554.pdf 
+3/9/2021 11:22:53: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2YJ88NX2VFF2C9AC999.dat.txt 
+3/9/2021 11:22:55: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0322539557.pdf 
+3/9/2021 11:22:56: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2YQUNMWHW482CB41B2A.dat.txt 
+3/9/2021 11:22:57: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0322569556.pdf 
+3/9/2021 11:22:58: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2YR9DHMO1952CB576D2.dat.txt 
+3/9/2021 11:22:59: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0322589555.pdf 
+3/9/2021 11:23:00: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2YR9S7MTPB72CB58077.dat.txt 
+3/9/2021 11:23:01: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0323009561.pdf 
+3/9/2021 11:23:02: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2YS01QNAMA02CB7ECD3.dat.txt 
+3/9/2021 11:23:03: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0323029562.pdf 
+3/9/2021 11:23:04: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2YTKYFXNP522CBD2D01.dat.txt 
+3/9/2021 11:23:06: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0323059558.pdf 
+3/9/2021 11:23:07: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2YTWNUCQYF92CBE417E.dat.txt 
+3/9/2021 11:23:08: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0323079560.pdf 
+3/9/2021 11:23:09: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2YWIB5WVPE32CC6E568.dat.txt 
+3/9/2021 11:23:10: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0323099567.pdf 
+3/9/2021 11:23:11: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2YZRZP7D63E2CD1C0F2.dat.txt 
+3/9/2021 11:23:13: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0323119566.pdf 
+3/9/2021 11:23:14: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2Z3VNBXLK502CDF608E.dat.txt 
+3/9/2021 11:23:15: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0323149564.pdf 
+3/9/2021 11:23:16: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2Z3W23991652CDF6A43.dat.txt 
+3/9/2021 11:23:17: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0323169571.pdf 
+3/9/2021 11:23:18: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2Z5S1MDJ8AB2CE5B019.dat.txt 
+3/9/2021 11:23:19: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0323189569.pdf 
+3/9/2021 11:23:20: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2Z7P1WE9P2A2CEC0DFB.dat.txt 
+3/9/2021 11:23:21: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0323209572.pdf 
+3/9/2021 11:23:23: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2Z7PGTAUE3E2CEC17CE.dat.txt 
+3/9/2021 11:23:24: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0323239576.pdf 
+3/9/2021 11:23:25: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2Z7ZKMA2G942CED0674.dat.txt 
+3/9/2021 11:23:26: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0323259568.pdf 
+3/9/2021 11:23:27: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2Z8JM5BXU112CEEDFE7.dat.txt 
+3/9/2021 11:23:28: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0323279580.pdf 
+3/9/2021 11:23:29: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2ZA9EZNAUE12CF4939F.dat.txt 
+3/9/2021 11:23:30: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0323299578.pdf 
+3/9/2021 11:23:31: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2ZA9TRL3G042CF49D43.dat.txt 
+3/9/2021 11:23:32: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0323319570.pdf 
+3/9/2021 11:23:33: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2ZAQBN25LC42CF622E9.dat.txt 
+3/9/2021 11:23:34: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0323339577.pdf 
+3/9/2021 11:23:36: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2ZCB16S47722CFB5E64.dat.txt 
+3/9/2021 11:23:37: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0323369575.pdf 
+3/9/2021 11:23:38: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2ZCBGORFU972CFB6895.dat.txt 
+3/9/2021 11:23:39: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0323389574.pdf 
+3/9/2021 11:23:40: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2ZCBWH2MRB22CFB72E6.dat.txt 
+3/9/2021 11:23:41: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0323409573.pdf 
+3/9/2021 11:23:42: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2ZCCCPAD6CA2CFB7D94.dat.txt 
+3/9/2021 11:23:44: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0323429582.pdf 
+3/9/2021 11:23:45: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2ZCCS6S5ZF12CFB87B6.dat.txt 
+3/9/2021 11:23:46: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0323459588.pdf 
+3/9/2021 11:23:47: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2ZGLGC72A1D2D099DBA.dat.txt 
+3/9/2021 11:23:48: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0323479601.pdf 
+3/9/2021 11:23:49: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2ZGVTG4VM7C2D0A928A.dat.txt 
+3/9/2021 11:23:50: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0323499589.pdf 
+3/9/2021 11:23:51: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2ZH79WTK30D2D0BA12B.dat.txt 
+3/9/2021 11:23:53: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0323519563.pdf 
+3/9/2021 11:23:54: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2ZH7PAD8J332D0BAB3E.dat.txt 
+3/9/2021 11:23:55: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0323549590.pdf 
+3/9/2021 11:23:56: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2ZHNSI635CC2D0D274E.dat.txt 
+3/9/2021 11:23:57: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0323569583.pdf 
+3/9/2021 11:23:59: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2ZHO7T49SEF2D0D3151.dat.txt 
+3/9/2021 11:24:00: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0323599592.pdf 
+3/9/2021 11:24:01: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2ZHONVWU0022D0D3BE0.dat.txt 
+3/9/2021 11:24:03: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0324019591.pdf 
+3/9/2021 11:24:04: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2ZHP44CHH242D0D467F.dat.txt 
+3/9/2021 11:24:05: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0324049586.pdf 
+3/9/2021 11:24:06: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2ZI1X6ZBR062D0E750C.dat.txt 
+3/9/2021 11:24:07: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0324069593.pdf 
+3/9/2021 11:24:08: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2ZI2D1UTQ282D0E7F6C.dat.txt 
+3/9/2021 11:24:09: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0324089597.pdf 
+3/9/2021 11:24:10: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2ZK8ZFP54CB2D15C07A.dat.txt 
+3/9/2021 11:24:11: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0324109598.pdf 
+3/9/2021 11:24:13: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2ZK9ENK8JDE2D15CA6D.dat.txt 
+3/9/2021 11:24:14: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0324139602.pdf 
+3/9/2021 11:24:16: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2ZLMGBPVODF2D1A50E0.dat.txt 
+3/9/2021 11:24:17: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0324169599.pdf 
+3/9/2021 11:24:18: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2ZMAQYWRI582D1C8EBA.dat.txt 
+3/9/2021 11:24:19: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0324189584.pdf 
+3/9/2021 11:24:20: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2ZNKWGIMBAD2D20D0E0.dat.txt 
+3/9/2021 11:24:21: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0324209579.pdf 
+3/9/2021 11:24:22: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2ZNRQ02DE462D2171F3.dat.txt 
+3/9/2021 11:24:23: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0324229603.pdf 
+3/9/2021 11:24:24: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2ZSMQM03M872D3197CC.dat.txt 
+3/9/2021 11:24:26: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0324259594.pdf 
+3/9/2021 11:24:27: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2ZSN6FIZG9D2D31A22C.dat.txt 
+3/9/2021 11:24:28: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0324279596.pdf 
+3/9/2021 11:24:29: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2ZULNH6B9FF2D3822B9.dat.txt 
+3/9/2021 11:24:30: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0324299605.pdf 
+3/9/2021 11:24:31: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307MTMC8W5D2D636C54.dat.txt 
+3/9/2021 11:24:33: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0324329622.pdf 
+3/9/2021 11:24:34: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307N8RR9A792D637647.dat.txt 
+3/9/2021 11:24:35: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0324349619.pdf 
+3/9/2021 11:24:36: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307NNZ0L89E2D63803A.dat.txt 
+3/9/2021 11:24:37: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0324369616.pdf 
+3/9/2021 11:24:38: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B308AVI51UB62D65A472.dat.txt 
+3/9/2021 11:24:40: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0324399610.pdf 
+3/9/2021 11:24:41: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B308BB9AFDCB2D65AEC2.dat.txt 
+3/9/2021 11:24:42: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0324419612.pdf 
+3/9/2021 11:24:43: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B308BQSOQAE92D65B8F4.dat.txt 
+3/9/2021 11:24:44: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0324439620.pdf 
+3/9/2021 11:24:45: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B308C65BWP0B2D65C306.dat.txt 
+3/9/2021 11:24:47: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0324459611.pdf 
+3/9/2021 11:24:48: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B308CMR9N4232D65CDF3.dat.txt 
+3/9/2021 11:24:49: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0324489613.pdf 
+3/9/2021 11:24:50: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B308D27MRJ402D65D814.dat.txt 
+3/9/2021 11:24:51: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0324509615.pdf 
+3/9/2021 11:24:52: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B30CCEQ11V9B2D7311E2.dat.txt 
+3/9/2021 11:24:54: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0324529638.pdf 
+3/9/2021 11:24:55: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B30E763Y4W422D793ABA.dat.txt 
+3/9/2021 11:24:56: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0324559623.pdf 
+3/9/2021 11:24:57: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B30EK1HT6J172D7A6ACE.dat.txt 
+3/9/2021 11:24:59: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0324589631.pdf 
+3/9/2021 11:25:00: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B30ITDSSAJ842D8890A1.dat.txt 
+3/9/2021 11:25:02: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0325009629.pdf 
+3/9/2021 11:25:03: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B30J5R6WO3342D89B4DE.dat.txt 
+3/9/2021 11:25:04: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0325039627.pdf 
+3/9/2021 11:25:05: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B30KHWG172B22D8E2613.dat.txt 
+3/9/2021 11:25:06: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0325059634.pdf 
+3/9/2021 11:25:07: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B30MDVSISK982D946BC9.dat.txt 
+3/9/2021 11:25:08: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0325079642.pdf 
+3/9/2021 11:25:10: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B30MQFOC34612D95943C.dat.txt 
+3/9/2021 11:25:11: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0325109639.pdf 
+3/9/2021 11:25:12: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B30N4487S35D2D96D76A.dat.txt 
+3/9/2021 11:25:13: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0325129630.pdf 
+3/9/2021 11:25:14: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B30N4JKDXK802D96E17C.dat.txt 
+3/9/2021 11:25:15: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0325149604.pdf 
+3/9/2021 11:25:17: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B30N4YQ45C932D96EB6F.dat.txt 
+3/9/2021 11:25:18: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0325179632.pdf 
+3/9/2021 11:25:20: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B30PXJBA3FB82DA032DC.dat.txt 
+3/9/2021 11:25:22: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0325209624.pdf 
+3/9/2021 11:25:23: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B30PXYED68D82DA03CCF.dat.txt 
+3/9/2021 11:25:24: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0325239618.pdf 
+3/9/2021 11:25:25: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B30PYECIX0F22DA0473F.dat.txt 
+3/9/2021 11:25:26: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0325259635.pdf 
+3/9/2021 11:25:28: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B30S2F2W3Y8A2DA74AD7.dat.txt 
+3/9/2021 11:25:29: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0325289656.pdf 
+3/9/2021 11:25:30: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B30SA4TL51412DA80108.dat.txt 
+3/9/2021 11:25:31: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0325309641.pdf 
+3/9/2021 11:25:32: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B30TIL3YMB302DAC1B05.dat.txt 
+3/9/2021 11:25:33: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0325329628.pdf 
+3/9/2021 11:25:34: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B30TJ0W4OR4A2DAC2555.dat.txt 
+3/9/2021 11:25:35: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0325349649.pdf 
+3/9/2021 11:25:37: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B30UNVLUWJ3B2DAFEA4C.dat.txt 
+3/9/2021 11:25:38: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0325379640.pdf 
+3/9/2021 11:25:39: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B30UWOZQEN312DB0BA8D.dat.txt 
+3/9/2021 11:25:41: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0325409651.pdf 
+3/9/2021 11:25:42: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B30VU7SKZQ8F2DB3D24C.dat.txt 
+3/9/2021 11:25:43: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0325429661.pdf 
+3/9/2021 11:25:44: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B30XJZ6YCW2C2DB9851A.dat.txt 
+3/9/2021 11:25:46: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0325449665.pdf 
+3/9/2021 11:25:47: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B30XKENNEZ512DB98F3B.dat.txt 
+3/9/2021 11:25:48: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0325479650.pdf 
+3/9/2021 11:25:49: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B30XZ8LZ68C42DBAED93.dat.txt 
+3/9/2021 11:25:50: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0325499644.pdf 
+3/9/2021 11:25:51: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B30XZOREV6E62DBAF822.dat.txt 
+3/9/2021 11:25:53: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0325519643.pdf 
+3/9/2021 11:25:54: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B30Y895GE0D92DBBC277.dat.txt 
+3/9/2021 11:25:55: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0325549659.pdf 
+3/9/2021 11:25:57: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B30YH3BK4NC72DBC9334.dat.txt 
+3/9/2021 11:25:58: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0325579625.pdf 
+3/9/2021 11:25:59: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B30Z6B2V7J5D2DBEE6C9.dat.txt 
+3/9/2021 11:26:01: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0326009664.pdf 
+3/9/2021 11:26:02: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B30ZW5EYDA0C2DC14933.dat.txt 
+3/9/2021 11:26:03: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0326029652.pdf 
+3/9/2021 11:26:04: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B310H07UQIBE2DC335D0.dat.txt 
+3/9/2021 11:26:05: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0326049647.pdf 
+3/9/2021 11:26:07: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B310HG9EFED52DC34050.dat.txt 
+3/9/2021 11:26:08: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0326079654.pdf 
+3/9/2021 11:26:09: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B310OXM7GD852DC3F112.dat.txt 
+3/9/2021 11:26:10: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0326099617.pdf 
+3/9/2021 11:26:11: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B310V21KR2E82DC481A9.dat.txt 
+3/9/2021 11:26:13: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0326119637.pdf 
+3/9/2021 11:26:14: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B3113U5YH2D32DC5511F.dat.txt 
+3/9/2021 11:26:15: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0326149621.pdf 
+3/9/2021 11:26:16: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B311S5XEXO3F2DC78FB4.dat.txt 
+3/9/2021 11:26:18: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0326169663.pdf 
+3/9/2021 11:26:19: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B3137I8IRF9B2DCC4C5A.dat.txt 
+3/9/2021 11:26:20: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0326199666.pdf 
+3/9/2021 11:26:21: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B316Z9SK4M5C2DD8D314.dat.txt 
+3/9/2021 11:26:22: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0326219667.pdf 
+3/9/2021 11:26:24: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B317IX8LCPA62DDAA340.dat.txt 
+3/9/2021 11:26:25: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0326249672.pdf 
+3/9/2021 11:26:26: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B3188WHOWK682DDD08D6.dat.txt 
+3/9/2021 11:26:28: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0326269681.pdf 
+3/9/2021 11:26:29: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B318N0E8CL7C2DDE5616.dat.txt 
+3/9/2021 11:26:30: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0326299677.pdf 
+3/9/2021 11:26:31: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B319CAI4PF302DE0AB32.dat.txt 
+3/9/2021 11:26:32: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0326319671.pdf 
+3/9/2021 11:26:34: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B31A6HPEGDF52DE37483.dat.txt 
+3/9/2021 11:26:35: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0326349669.pdf 
+3/9/2021 11:26:36: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B31A6X4SM2112DE37EA5.dat.txt 
+3/9/2021 11:26:38: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0326369674.pdf 
+3/9/2021 11:26:39: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B31A7CM9DQ272DE388C7.dat.txt 
+3/9/2021 11:26:40: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0326399680.pdf 
+3/9/2021 11:26:42: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B31ANDV4QTD42DE5038F.dat.txt 
+3/9/2021 11:26:43: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0326429685.pdf 
+3/9/2021 11:26:44: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B31BPZ25E0572DE89300.dat.txt 
+3/9/2021 11:26:45: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0326449673.pdf 
+3/9/2021 11:26:46: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B31BYCW1QV272DE958FF.dat.txt 
+3/9/2021 11:26:48: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0326469676.pdf 
+3/9/2021 11:26:49: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B31BYS786A4D2DE96311.dat.txt 
+3/9/2021 11:26:50: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0326499679.pdf 
+3/9/2021 11:26:51: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B31ESQAYG1012DF2CB07.dat.txt 
+3/9/2021 11:26:52: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0326519692.pdf 
+3/9/2021 11:26:54: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B31F5QTR2DD62DF3FE66.dat.txt 
+3/9/2021 11:26:55: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0326549675.pdf 
+3/9/2021 11:26:57: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B31FESAP2TDE2DF4D3F6.dat.txt 
+3/9/2021 11:26:59: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0326579689.pdf 
+3/9/2021 11:27:00: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B31G0FJPOG8C2DF6D341.dat.txt 
+3/9/2021 11:27:01: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0327009683.pdf 
+3/9/2021 11:27:03: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B31G0UV5Z0AA2DF6DD43.dat.txt 
+3/9/2021 11:27:04: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0327039710.pdf 
+3/9/2021 11:27:05: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B31G1A8K1LCF2DF6E755.dat.txt 
+3/9/2021 11:27:06: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0327059658.pdf 
+3/9/2021 11:27:07: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B31G1Q5DKKE12DF6F1C5.dat.txt 
+3/9/2021 11:27:08: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0327079690.pdf 
+3/9/2021 11:27:09: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B31G2694RY012DF6FC64.dat.txt 
+3/9/2021 11:27:11: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0327099670.pdf 
+3/9/2021 11:27:12: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B31H1M2EIXDD2DFA416D.dat.txt 
+3/9/2021 11:27:13: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0327129687.pdf 
+3/9/2021 11:27:14: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B31H21DITEF42DFA4B7F.dat.txt 
+3/9/2021 11:27:15: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0327149712.pdf 
+3/9/2021 11:27:17: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B31H2HGEDI1A2DFA55FF.dat.txt 
+3/9/2021 11:27:19: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0327179682.pdf 
+3/9/2021 11:27:20: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B31HEN8VG7C02DFB753A.dat.txt 
+3/9/2021 11:27:21: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0327209691.pdf 
+3/9/2021 11:27:22: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B31IU95GCZ372E003839.dat.txt 
+3/9/2021 11:27:24: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0327229695.pdf 
+3/9/2021 11:27:25: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B31KS261XT782E06A906.dat.txt 
+3/9/2021 11:27:26: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0327259696.pdf 
+3/9/2021 11:27:27: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B31KSHLLVJ9A2E06B328.dat.txt 
+3/9/2021 11:27:29: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0327279694.pdf 
+3/9/2021 11:27:30: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B31NC9PGYX102E0F2AF1.dat.txt 
+3/9/2021 11:27:31: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0327309688.pdf 
+3/9/2021 11:27:32: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B31NCPTCA72D2E0F3590.dat.txt 
+3/9/2021 11:27:34: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0327329709.pdf 
+3/9/2021 11:27:35: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B31ND57GGX492E0F3FA2.dat.txt 
+3/9/2021 11:27:36: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0327359699.pdf 
+3/9/2021 11:27:37: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B31NMFCMY55E2E101ADF.dat.txt 
+3/9/2021 11:27:39: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0327379708.pdf 
+3/9/2021 11:27:41: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B31OR7LQZB672E13DE30.dat.txt 
+3/9/2021 11:27:42: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0327419698.pdf 
+3/9/2021 11:27:43: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B31Q8USV9T562E18D138.dat.txt 
+3/9/2021 11:27:44: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0327439700.pdf 
+3/9/2021 11:27:45: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B31QNSTP5DAD2E1A323F.dat.txt 
+3/9/2021 11:27:46: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0327459701.pdf 
+3/9/2021 11:27:47: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B31RE69E62942E1CA12C.dat.txt 
+3/9/2021 11:27:48: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0327479705.pdf 
+3/9/2021 11:27:49: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B31SB2UDO4BB2E1FAA64.dat.txt 
+3/9/2021 11:27:51: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0327499713.pdf 
+3/9/2021 11:27:52: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B31T0J3PVZ602E220387.dat.txt 
+3/9/2021 11:27:53: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0327529684.pdf 
+3/9/2021 11:27:54: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B31U9E2RV63D2E262719.dat.txt 
+3/9/2021 11:27:56: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0327549715.pdf 
+3/9/2021 11:27:58: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B31UG0WKI9BB2E26C3D6.dat.txt 
+3/9/2021 11:27:59: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0327589678.pdf 
+3/9/2021 11:28:00: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B31YH5FEBX9E2E3427A2.dat.txt 
+3/9/2021 11:28:02: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0328009711.pdf 
+3/9/2021 11:28:03: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B31YHLCLWNBD2E343211.dat.txt 
+3/9/2021 11:28:04: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0328039686.pdf 
+3/9/2021 11:28:05: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B31YI2DBO8DB2E343D3D.dat.txt 
+3/9/2021 11:28:06: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0328059716.pdf 
+3/9/2021 11:28:07: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B320Q6XO62882E3BA1D1.dat.txt 
+3/9/2021 11:28:08: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0328079717.pdf 
+3/9/2021 11:28:09: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B32GNQN3ZUE82E708CC0.dat.txt 
+3/9/2021 11:28:10: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0328099609.pdf 
+3/9/2021 11:28:11: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B32GO63LV6072E7096E2.dat.txt 
+3/9/2021 11:28:13: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0328119719.pdf 
+3/9/2021 11:28:14: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B32GOLFSF1272E70A0F4.dat.txt 
+3/9/2021 11:28:15: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0328149722.pdf 
+3/9/2021 11:28:16: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B32GP1GSCO3B2E70AB74.dat.txt 
+3/9/2021 11:28:19: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0328169697.pdf 
+3/9/2021 11:28:20: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B32GPGWELW5E2E70B596.dat.txt 
+3/9/2021 11:28:21: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0328209721.pdf 
+3/9/2021 11:28:23: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B32GPWY6WR7E2E70C025.dat.txt 
+3/9/2021 11:28:24: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0328239714.pdf 
+3/9/2021 11:28:25: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B32KNR03VU682E7DD63E.dat.txt 
+3/9/2021 11:28:26: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0328259720.pdf 
+3/9/2021 11:28:27: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B32KO6BA7L802E7DE040.dat.txt 
+3/9/2021 11:28:28: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0328279725.pdf 
+3/9/2021 11:28:29: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B32TVVXIBY272E9C7B27.dat.txt 
+3/9/2021 11:28:31: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0328299729.pdf 
+3/9/2021 11:28:32: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B3336DFXZF1B2EBB579A.dat.txt 
+3/9/2021 11:28:33: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0328329731.pdf 
+3/9/2021 11:28:34: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B334LM2Q7O452EC011DE.dat.txt 
+3/9/2021 11:28:35: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0328349726.pdf 
+3/9/2021 11:28:37: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B3357OB4ZO202EC21AED.dat.txt 
+3/9/2021 11:28:38: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0328379724.pdf 
+3/9/2021 11:28:40: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B33583NWD8352EC224FF.dat.txt 
+3/9/2021 11:28:41: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0328409706.pdf 
+3/9/2021 11:28:42: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B3358IY8GC572EC22F11.dat.txt 
+3/9/2021 11:28:44: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0328429723.pdf 
+3/9/2021 11:28:45: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B335Y6CX4OF12EC48CE7.dat.txt 
+3/9/2021 11:28:46: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0328459739.pdf 
+3/9/2021 11:28:48: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B33DZCGZ8G4E2EDF3AFB.dat.txt 
+3/9/2021 11:28:50: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0328489730.pdf 
+3/9/2021 11:28:51: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B33HMAA46CFD2EEB4FB1.dat.txt 
+3/9/2021 11:28:54: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0328519738.pdf 
+3/9/2021 11:28:55: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B33HMPJGBO1B2EEB59B4.dat.txt 
+3/9/2021 11:28:56: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0328559737.pdf 
+3/9/2021 11:28:57: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B33LVG5K68902EF9715E.dat.txt 
+3/9/2021 11:28:58: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0328579735.pdf 
+3/9/2021 11:29:00: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B33QZ89HGCB62F0A6630.dat.txt 
+3/9/2021 11:29:01: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0329009741.pdf 
+3/9/2021 11:29:02: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B33QZNZOPMC82F0A7081.dat.txt 
+3/9/2021 11:29:04: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0329039733.pdf 
+3/9/2021 11:29:05: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B33R03WK2EEB2F0A7AF1.dat.txt 
+3/9/2021 11:29:06: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0329059740.pdf 
+3/9/2021 11:29:07: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B33S9UI32S0E2F0EB343.dat.txt 
+3/9/2021 11:29:08: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0329079734.pdf 
+3/9/2021 11:29:09: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B33SA9RI41292F0EBD46.dat.txt 
+3/9/2021 11:29:10: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0329099743.pdf 
+3/9/2021 11:29:12: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B33UAPBS9A232F156C17.dat.txt 
+3/9/2021 11:29:13: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0329129744.pdf 
+3/9/2021 11:29:14: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B33ZDJ49LR512F264A73.dat.txt 
+3/9/2021 11:29:15: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0329149749.pdf 
+3/9/2021 11:29:16: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B33ZDYCYL9652F265475.dat.txt 
+3/9/2021 11:29:17: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0329169751.pdf 
+3/9/2021 11:29:19: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B33ZEDVXEU882F265E97.dat.txt 
+3/9/2021 11:29:20: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0329199747.pdf 
+3/9/2021 11:29:21: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B347AX70WZF12F409F3B.dat.txt 
+3/9/2021 11:29:23: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0329229745.pdf 
+3/9/2021 11:29:24: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B347BCJ0VR112F40A94D.dat.txt 
+3/9/2021 11:29:25: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0329249742.pdf 
+3/9/2021 11:29:26: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B347BS7PWL282F40B39E.dat.txt 
+3/9/2021 11:29:27: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B34A153Z4B782F49AF2D.dat.txt 
+3/9/2021 11:29:28: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0329279752.pdf 
+3/9/2021 11:29:29: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B34B3Z5XCV042F4D446A.dat.txt 
+3/9/2021 11:29:30: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B34B3Z5XCV042F4D446A.dat.txt 
+3/9/2021 11:29:32: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B34B3Z5XCV042F4D446A.dat.txt 
+3/9/2021 11:29:33: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B34B3Z5XCV042F4D446A.dat.txt 
+3/9/2021 11:29:34: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B34B3Z5XCV042F4D446A.dat.txt 
+3/9/2021 11:29:35: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B34B3Z5XCV042F4D446A.dat.txt 
+3/9/2021 11:29:36: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B34B3Z5XCV042F4D446A.dat.txt 
+3/9/2021 11:29:37: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B34B3Z5XCV042F4D446A.dat.txt 
+3/9/2021 11:29:38: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B34B3Z5XCV042F4D446A.dat.txt 
+3/9/2021 11:29:39: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B34B3Z5XCV042F4D446A.dat.txt 
+3/9/2021 11:29:40: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B34B3Z5XCV042F4D446A.dat.txt 
+3/9/2021 11:29:41: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B34B3Z5XCV042F4D446A.dat.txt 
+3/9/2021 11:29:42: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B34B3Z5XCV042F4D446A.dat.txt 
+3/9/2021 11:29:43: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B34B3Z5XCV042F4D446A.dat.txt 
+3/9/2021 11:29:44: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B34B3Z5XCV042F4D446A.dat.txt 
+3/9/2021 11:29:45: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B34B3Z5XCV042F4D446A.dat.txt 
+3/9/2021 11:29:46: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B34B3Z5XCV042F4D446A.dat.txt 
+3/9/2021 11:29:47: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B34B3Z5XCV042F4D446A.dat.txt 
+3/9/2021 11:29:49: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B34B3Z5XCV042F4D446A.dat.txt 
+3/9/2021 11:29:50: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B34B3Z5XCV042F4D446A.dat.txt 
+3/9/2021 11:29:51: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B34B3Z5XCV042F4D446A.dat.txt 
+3/9/2021 11:29:52: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B34B3Z5XCV042F4D446A.dat.txt 
+3/9/2021 11:29:53: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B34B3Z5XCV042F4D446A.dat.txt 
+3/9/2021 11:29:54: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B34B3Z5XCV042F4D446A.dat.txt 
+3/9/2021 11:29:55: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B34B3Z5XCV042F4D446A.dat.txt 
+3/9/2021 11:29:56: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B34B3Z5XCV042F4D446A.dat.txt 
+3/9/2021 11:29:57: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B34B3Z5XCV042F4D446A.dat.txt 
+3/9/2021 11:29:58: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B34B3Z5XCV042F4D446A.dat.txt 
+3/9/2021 11:29:59: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B34B3Z5XCV042F4D446A.dat.txt 
+3/9/2021 11:30:00: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B34B3Z5XCV042F4D446A.dat.txt 
+3/9/2021 11:30:01: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B34B3Z5XCV042F4D446A.dat.txt 
+3/9/2021 11:30:02: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B34B3Z5XCV042F4D446A.dat.txt 
+3/9/2021 11:30:04: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B34B3Z5XCV042F4D446A.dat.txt 
+3/9/2021 11:30:05: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B34B3Z5XCV042F4D446A.dat.txt 
+3/9/2021 11:30:06: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B34B3Z5XCV042F4D446A.dat.txt 
+3/9/2021 11:30:07: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B34B3Z5XCV042F4D446A.dat.txt 
+3/9/2021 11:30:08: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B34B3Z5XCV042F4D446A.dat.txt 
+3/9/2021 11:30:09: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B34B3Z5XCV042F4D446A.dat.txt 
+3/9/2021 11:30:10: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B34B3Z5XCV042F4D446A.dat.txt 
+3/9/2021 11:30:11: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B34B3Z5XCV042F4D446A.dat.txt 
+3/9/2021 11:30:12: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B34B3Z5XCV042F4D446A.dat.txt 
+3/9/2021 11:30:13: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B34B3Z5XCV042F4D446A.dat.txt 
+3/9/2021 11:30:14: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B34B3Z5XCV042F4D446A.dat.txt 
+3/9/2021 11:30:15: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B34B3Z5XCV042F4D446A.dat.txt 
+3/9/2021 11:30:16: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B34B3Z5XCV042F4D446A.dat.txt 
+3/9/2021 11:30:17: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B34B3Z5XCV042F4D446A.dat.txt 
+3/9/2021 11:30:19: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B34B3Z5XCV042F4D446A.dat.txt 
+3/9/2021 11:30:20: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B34B3Z5XCV042F4D446A.dat.txt 
+3/9/2021 11:30:21: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B34B3Z5XCV042F4D446A.dat.txt 
+3/9/2021 11:30:22: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B34B3Z5XCV042F4D446A.dat.txt 
+3/9/2021 11:30:23: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B34B3Z5XCV042F4D446A.dat.txt 
+3/9/2021 11:30:24: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B34B3Z5XCV042F4D446A.dat.txt 
+3/9/2021 11:30:25: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B34B3Z5XCV042F4D446A.dat.txt 
+3/9/2021 11:30:26: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B34B3Z5XCV042F4D446A.dat.txt 
+3/9/2021 11:30:27: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B34B3Z5XCV042F4D446A.dat.txt 
+3/9/2021 11:30:28: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B34B3Z5XCV042F4D446A.dat.txt 
+3/9/2021 11:30:29: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B34B3Z5XCV042F4D446A.dat.txt 
+3/9/2021 11:30:30: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B34B3Z5XCV042F4D446A.dat.txt 
+3/9/2021 11:30:31: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B34B3Z5XCV042F4D446A.dat.txt 
+3/9/2021 11:30:32: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B34B3Z5XCV042F4D446A.dat.txt 
+3/9/2021 11:30:33: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B34B3Z5XCV042F4D446A.dat.txt 
+3/9/2021 11:30:34: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B34B3Z5XCV042F4D446A.dat.txt 
+3/9/2021 11:30:35: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B34B3Z5XCV042F4D446A.dat.txt 
+3/9/2021 11:30:37: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B34B3Z5XCV042F4D446A.dat.txt 
+3/9/2021 11:30:38: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B34B3Z5XCV042F4D446A.dat.txt 
+3/9/2021 11:30:39: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B34B3Z5XCV042F4D446A.dat.txt 
+3/9/2021 11:30:40: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B34B3Z5XCV042F4D446A.dat.txt 
+3/9/2021 11:30:41: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B34B3Z5XCV042F4D446A.dat.txt 
+3/9/2021 11:30:42: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B34B3Z5XCV042F4D446A.dat.txt 
+3/9/2021 11:30:43: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B34B3Z5XCV042F4D446A.dat.txt 
+3/9/2021 11:30:44: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B34B3Z5XCV042F4D446A.dat.txt 
+3/9/2021 11:30:45: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B34B3Z5XCV042F4D446A.dat.txt 
+3/9/2021 11:30:46: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B34B3Z5XCV042F4D446A.dat.txt 
+3/9/2021 11:30:47: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B34B3Z5XCV042F4D446A.dat.txt 
+3/9/2021 11:30:48: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B34B3Z5XCV042F4D446A.dat.txt 
+3/9/2021 11:30:49: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B34B3Z5XCV042F4D446A.dat.txt 
+3/9/2021 11:30:50: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B34B3Z5XCV042F4D446A.dat.txt 
+3/9/2021 11:30:52: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B34B3Z5XCV042F4D446A.dat.txt 
+3/9/2021 11:30:53: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B34B3Z5XCV042F4D446A.dat.txt 
+3/9/2021 11:30:54: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B34B3Z5XCV042F4D446A.dat.txt 
+3/9/2021 11:30:55: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B34B3Z5XCV042F4D446A.dat.txt 
+3/9/2021 11:30:59: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B34B3Z5XCV042F4D446A.dat.txt 
+3/9/2021 11:31:00: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B34B3Z5XCV042F4D446A.dat.txt 
+3/9/2021 11:31:01: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B34B3Z5XCV042F4D446A.dat.txt 
+3/9/2021 11:31:02: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B34B3Z5XCV042F4D446A.dat.txt 
+3/9/2021 11:31:03: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B34B3Z5XCV042F4D446A.dat.txt 
+3/9/2021 11:31:04: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B34B3Z5XCV042F4D446A.dat.txt 
+3/9/2021 11:31:05: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B34BKBWL6N962F4EC6B5.dat.txt 
+3/9/2021 11:31:06: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0331059757.pdf 
+3/9/2021 11:31:07: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B34BKRIAL3B12F4ED0F6.dat.txt 
+3/9/2021 11:31:08: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0331079758.pdf 
+3/9/2021 11:31:10: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B34BL7OWB3D42F4EDB94.dat.txt 
+3/9/2021 11:31:11: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0331109756.pdf 
+3/9/2021 11:31:12: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B34FTGSFP1102F5CE7B6.dat.txt 
+3/9/2021 11:31:13: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0331129755.pdf 
+3/9/2021 11:31:15: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B34INYFJ2U7A2F665C7C.dat.txt 
+3/9/2021 11:31:16: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0331159718.pdf 
+3/9/2021 11:31:17: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B34UH1FVPMAE2F8D94C5.dat.txt 
+3/9/2021 11:31:18: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0331179746.pdf 
+3/9/2021 11:31:19: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B34UHHOBJEC82F8D9F73.dat.txt 
+3/9/2021 11:31:21: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0331199760.pdf 
+3/9/2021 11:31:22: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B34XB4SV8C1F2F970035.dat.txt 
+3/9/2021 11:31:23: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0331229761.pdf 
+3/9/2021 11:42:20: Aplicación inicializada correctamente  
+3/9/2021 11:42:21: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B34B3Z5XCV042F4D446A.dat.txt 
+3/9/2021 11:42:22: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B34B3Z5XCV042F4D446A.dat.txt 
+3/9/2021 11:42:23: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B34B3Z5XCV042F4D446A.dat.txt 
+3/9/2021 11:42:24: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B34B3Z5XCV042F4D446A.dat.txt 
+3/9/2021 11:42:25: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B34B3Z5XCV042F4D446A.dat.txt 
+3/9/2021 11:42:26: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B34B3Z5XCV042F4D446A.dat.txt 
+3/9/2021 11:42:27: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B34B3Z5XCV042F4D446A.dat.txt 
+3/9/2021 11:42:29: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B34B3Z5XCV042F4D446A.dat.txt 
+3/9/2021 11:42:41: Aplicación inicializada correctamente  
+3/9/2021 11:42:42: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B34B3Z5XCV042F4D446A.dat.txt 
+3/9/2021 11:42:43: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B34B3Z5XCV042F4D446A.dat.txt 
+3/9/2021 11:42:44: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B34B3Z5XCV042F4D446A.dat.txt 
+3/9/2021 11:42:45: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B34B3Z5XCV042F4D446A.dat.txt 
+3/9/2021 11:42:46: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B34B3Z5XCV042F4D446A.dat.txt 
+3/9/2021 11:42:48: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B34B3Z5XCV042F4D446A.dat.txt 
+3/9/2021 11:42:49: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B34B3Z5XCV042F4D446A.dat.txt 
+3/9/2021 11:44:05: Aplicación inicializada correctamente  
+3/9/2021 11:44:06: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B34B3Z5XCV042F4D446A.dat.txt 
+3/9/2021 11:49:27: Aplicación inicializada correctamente  
+3/9/2021 11:49:28: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B34B3Z5XCV042F4D446A.dat.txt 
+3/9/2021 11:49:29: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B34B3Z5XCV042F4D446A.dat.txt 
+3/9/2021 11:49:30: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B34B3Z5XCV042F4D446A.dat.txt 
+3/9/2021 11:49:31: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B34B3Z5XCV042F4D446A.dat.txt 
+3/9/2021 11:49:32: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B34B3Z5XCV042F4D446A.dat.txt 
+3/9/2021 11:49:33: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B34B3Z5XCV042F4D446A.dat.txt 
+3/9/2021 11:49:34: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B34B3Z5XCV042F4D446A.dat.txt 
+3/9/2021 11:49:35: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B34B3Z5XCV042F4D446A.dat.txt 
+3/9/2021 11:49:36: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B34B3Z5XCV042F4D446A.dat.txt 
+3/9/2021 11:49:37: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B34B3Z5XCV042F4D446A.dat.txt 
+3/9/2021 11:49:38: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B34B3Z5XCV042F4D446A.dat.txt 
+3/9/2021 11:49:39: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B34B3Z5XCV042F4D446A.dat.txt 
+3/9/2021 11:49:41: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B34B3Z5XCV042F4D446A.dat.txt 
+3/9/2021 11:49:42: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B34B3Z5XCV042F4D446A.dat.txt 
+3/9/2021 11:50:04: Aplicación inicializada correctamente  
+3/9/2021 11:50:05: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B34B3Z5XCV042F4D446A.dat.txt 
+3/9/2021 11:50:06: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B34B3Z5XCV042F4D446A.dat.txt 
+3/9/2021 11:50:07: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B34B3Z5XCV042F4D446A.dat.txt 
+3/9/2021 11:50:08: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B34B3Z5XCV042F4D446A.dat.txt 
+3/9/2021 11:50:24: Aplicación inicializada correctamente  
+3/9/2021 11:50:25: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B34B3Z5XCV042F4D446A.dat.txt 
+3/9/2021 11:51:28: Aplicación inicializada correctamente  
+3/9/2021 11:51:29: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B34B3Z5XCV042F4D446A.dat.txt 
+3/9/2021 11:51:33: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0351299750.pdf 
+3/9/2021 12:06:30: Aplicación inicializada correctamente  
+3/9/2021 12:06:31: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2Y9U8BDXN882C7B99E5.dat.txt 
+3/9/2021 13:02:07: Aplicación inicializada correctamente  
+3/9/2021 13:02:08: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2Y9U8BDXN882C7B99E5.dat.txt 
+3/9/2021 13:02:17: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0302099553.pdf 
+3/9/2021 14:16:36: Aplicación inicializada correctamente  
+3/9/2021 14:16:37: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2YR9S7MTPB72CB58077.dat.txt 
+3/9/2021 14:16:51: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0316399561.pdf 
+3/9/2021 14:25:30: Aplicación inicializada correctamente  
+3/9/2021 14:25:31: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2Z7PGTAUE3E2CEC17CE.dat.txt 
+3/9/2021 14:25:36: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0325319576.pdf 
+3/9/2021 14:29:11: Aplicación inicializada correctamente  
+3/9/2021 14:29:12: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2YS01QNAMA02CB7ECD3.dat.txt 
+3/9/2021 14:29:17: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0329129562.pdf 
+3/9/2021 14:56:31: Aplicación inicializada correctamente  
+3/9/2021 14:56:32: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2YR9DHMO1952CB576D2.dat.txt 
+3/9/2021 14:56:36: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0356329555.pdf 
+3/9/2021 14:57:33: Aplicación inicializada correctamente  
+3/9/2021 14:57:34: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2Z3VNBXLK502CDF608E.dat.txt 
+3/9/2021 14:57:38: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0357349564.pdf 
+3/9/2021 15:00:16: Aplicación inicializada correctamente  
+3/9/2021 15:00:16: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B31H2HGEDI1A2DFA55FF.dat.txt 
+3/9/2021 15:00:21: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0300179682.pdf 
+3/9/2021 15:01:30: Aplicación inicializada correctamente  
+3/9/2021 15:01:31: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2Z3W23991652CDF6A43.dat.txt 
+3/9/2021 15:01:36: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0301319571.pdf 
+3/9/2021 15:04:29: Aplicación inicializada correctamente  
+3/9/2021 15:04:30: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2Z7PGTAUE3E2CEC17CE.dat.txt 
+3/9/2021 15:04:30: REIMPRESION  
+3/9/2021 15:05:41: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B30XKENNEZ512DB98F3B.dat.txt 
+3/9/2021 15:05:45: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0305419650.pdf 
+3/9/2021 15:12:11: Aplicación inicializada correctamente  
+3/9/2021 15:12:12: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B30XKENNEZ512DB98F3B.dat.txt 
+3/9/2021 15:12:17: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0312129650.pdf 
+3/9/2021 15:41:01: Aplicación inicializada correctamente  
+3/9/2021 15:41:02: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2YQUNMWHW482CB41B2A.dat.txt 
+3/9/2021 15:41:07: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0341029556.pdf 
+3/9/2021 16:08:47: Aplicación inicializada correctamente  
+3/9/2021 16:08:48: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2Z7P1WE9P2A2CEC0DFB.dat.txt 
+3/9/2021 16:08:53: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0308499572.pdf 
+3/9/2021 17:42:57: Aplicación inicializada correctamente  
+3/9/2021 17:42:58: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2ZA9TRL3G042CF49D43.dat.txt 
+3/9/2021 17:43:03: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0342589570.pdf 
+3/9/2021 17:48:11: Aplicación inicializada correctamente  
+3/9/2021 17:48:12: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2YS01QNAMA02CB7ECD3.dat.txt 
+3/9/2021 17:48:17: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0348129562.pdf 
+3/9/2021 17:50:45: Aplicación inicializada correctamente  
+3/9/2021 17:50:46: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2YS01QNAMA02CB7ECD3.dat.txt 
+3/9/2021 17:50:51: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0350469562.pdf 
+3/9/2021 17:52:53: Aplicación inicializada correctamente  
+3/9/2021 17:52:54: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2YS01QNAMA02CB7ECD3.dat.txt 
+3/9/2021 17:52:59: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0352549562.pdf 
+3/9/2021 17:54:26: Aplicación inicializada correctamente  
+3/9/2021 17:54:27: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2YS01QNAMA02CB7ECD3.dat.txt 
+3/9/2021 17:54:32: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0354279562.pdf 
+3/9/2021 18:04:22: Aplicación inicializada correctamente  
+3/9/2021 18:04:23: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2YS01QNAMA02CB7ECD3.dat.txt 
+3/9/2021 18:04:28: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0304249562.pdf 
+3/9/2021 18:07:30: Aplicación inicializada correctamente  
+3/9/2021 18:07:31: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2YS01QNAMA02CB7ECD3.dat.txt 
+3/9/2021 18:07:36: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0307319562.pdf 
+3/9/2021 18:08:44: Aplicación inicializada correctamente  
+3/9/2021 18:08:45: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2YS01QNAMA02CB7ECD3.dat.txt 
+3/9/2021 18:08:50: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0308459562.pdf 
+3/9/2021 18:35:59: Aplicación inicializada correctamente  
+3/9/2021 18:36:00: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2YS01QNAMA02CB7ECD3.dat.txt 
+3/9/2021 18:36:01: REIMPRESION  
+3/9/2021 18:36:26: Aplicación inicializada correctamente  
+3/9/2021 18:36:27: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2YS01QNAMA02CB7ECD3.dat.txt 
+3/9/2021 18:36:32: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0336279562.pdf 
+3/9/2021 18:45:59: Aplicación inicializada correctamente  
+3/9/2021 18:46:00: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2YS01QNAMA02CB7ECD3.dat.txt 
+3/9/2021 18:46:05: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0346009562.pdf 
+3/9/2021 19:31:11: Aplicación inicializada correctamente  
+3/9/2021 19:31:12: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2Z3VNBXLK502CDF608E.dat.txt 
+3/9/2021 19:31:17: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0331129564.pdf 
+3/9/2021 19:35:33: Aplicación inicializada correctamente  
+3/9/2021 19:35:34: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2Z3VNBXLK502CDF608E.dat.txt 
+3/9/2021 19:35:40: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0335349564.pdf 
+3/9/2021 20:15:12: Aplicación inicializada correctamente  
+3/9/2021 20:15:14: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2Z8JM5BXU112CEEDFE7.dat.txt 
+3/9/2021 20:15:19: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0315149580.pdf 
+3/9/2021 20:27:25: Aplicación inicializada correctamente  
+3/9/2021 20:27:26: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2Z8JM5BXU112CEEDFE7.dat.txt 
+3/9/2021 20:27:32: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0327269580.pdf 
+3/9/2021 20:29:34: Aplicación inicializada correctamente  
+3/9/2021 20:29:35: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2Z8JM5BXU112CEEDFE7.dat.txt 
+3/9/2021 20:29:41: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0329369580.pdf 
+3/9/2021 20:31:32: Aplicación inicializada correctamente  
+3/9/2021 20:31:33: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2Y9U8BDXN882C7B99E5.dat.txt 
+3/9/2021 20:31:39: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0331349553.pdf 
+3/9/2021 20:31:40: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2Y9UO9JK3AD2C7BA464.dat.txt 
+3/9/2021 20:31:41: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0331409554.pdf 
+3/9/2021 20:31:42: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2YJ88NX2VFF2C9AC999.dat.txt 
+3/9/2021 20:31:43: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0331429557.pdf 
+3/9/2021 20:31:45: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2YQUNMWHW482CB41B2A.dat.txt 
+3/9/2021 20:31:46: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0331459556.pdf 
+3/9/2021 20:31:47: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2YR9DHMO1952CB576D2.dat.txt 
+3/9/2021 20:31:48: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0331479555.pdf 
+3/9/2021 20:31:49: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2YR9S7MTPB72CB58077.dat.txt 
+3/9/2021 20:31:51: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0331499561.pdf 
+3/9/2021 20:31:52: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2YS01QNAMA02CB7ECD3.dat.txt 
+3/9/2021 20:31:53: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0331529562.pdf 
+3/9/2021 20:31:54: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2YTKYFXNP522CBD2D01.dat.txt 
+3/9/2021 20:31:55: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0331549558.pdf 
+3/9/2021 20:31:56: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2YTWNUCQYF92CBE417E.dat.txt 
+3/9/2021 20:31:57: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0331569560.pdf 
+3/9/2021 20:31:58: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2YWIB5WVPE32CC6E568.dat.txt 
+3/9/2021 20:32:00: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0331599567.pdf 
+3/9/2021 20:32:01: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2YZRZP7D63E2CD1C0F2.dat.txt 
+3/9/2021 20:32:02: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0332019566.pdf 
+3/9/2021 20:32:04: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2Z3VNBXLK502CDF608E.dat.txt 
+3/9/2021 20:32:05: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0332049564.pdf 
+3/9/2021 20:32:06: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2Z3W23991652CDF6A43.dat.txt 
+3/9/2021 20:32:07: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0332069571.pdf 
+3/9/2021 20:32:08: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2Z5S1MDJ8AB2CE5B019.dat.txt 
+3/9/2021 20:32:10: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0332089569.pdf 
+3/9/2021 20:32:11: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2Z7P1WE9P2A2CEC0DFB.dat.txt 
+3/9/2021 20:32:12: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0332119572.pdf 
+3/9/2021 20:32:13: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2Z7PGTAUE3E2CEC17CE.dat.txt 
+3/9/2021 20:32:15: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0332139576.pdf 
+3/9/2021 20:32:16: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2Z7ZKMA2G942CED0674.dat.txt 
+3/9/2021 20:32:18: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0332169568.pdf 
+3/9/2021 20:32:19: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2Z8JM5BXU112CEEDFE7.dat.txt 
+3/9/2021 20:32:20: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0332199580.pdf 
+3/9/2021 20:32:21: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2ZA9EZNAUE12CF4939F.dat.txt 
+3/9/2021 20:32:22: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0332219578.pdf 
+3/9/2021 20:32:23: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2ZA9TRL3G042CF49D43.dat.txt 
+3/9/2021 20:32:25: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0332249570.pdf 
+3/9/2021 20:32:26: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2ZAQBN25LC42CF622E9.dat.txt 
+3/9/2021 20:32:28: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0332269577.pdf 
+3/9/2021 20:32:29: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2ZCB16S47722CFB5E64.dat.txt 
+3/9/2021 20:32:30: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0332299575.pdf 
+3/9/2021 20:32:31: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2ZCBGORFU972CFB6895.dat.txt 
+3/9/2021 20:32:32: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0332319574.pdf 
+3/9/2021 20:32:33: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2ZCBWH2MRB22CFB72E6.dat.txt 
+3/9/2021 20:32:34: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0332339573.pdf 
+3/9/2021 20:32:35: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2ZCCCPAD6CA2CFB7D94.dat.txt 
+3/9/2021 20:32:36: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0332359582.pdf 
+3/9/2021 20:32:37: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2ZCCS6S5ZF12CFB87B6.dat.txt 
+3/9/2021 20:32:39: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0332379588.pdf 
+3/9/2021 20:32:40: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2ZGLGC72A1D2D099DBA.dat.txt 
+3/9/2021 20:32:41: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0332409601.pdf 
+3/9/2021 20:32:42: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2ZGVTG4VM7C2D0A928A.dat.txt 
+3/9/2021 20:32:44: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0332429589.pdf 
+3/9/2021 20:32:45: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2ZH79WTK30D2D0BA12B.dat.txt 
+3/9/2021 20:32:46: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0332459563.pdf 
+3/9/2021 20:32:47: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2ZH7PAD8J332D0BAB3E.dat.txt 
+3/9/2021 20:32:48: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0332479590.pdf 
+3/9/2021 20:32:49: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2ZHNSI635CC2D0D274E.dat.txt 
+3/9/2021 20:32:51: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0332499583.pdf 
+3/9/2021 20:32:52: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2ZHO7T49SEF2D0D3151.dat.txt 
+3/9/2021 20:32:53: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0332529592.pdf 
+3/9/2021 20:32:54: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2ZHONVWU0022D0D3BE0.dat.txt 
+3/9/2021 20:32:55: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0332549591.pdf 
+3/9/2021 20:32:56: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2ZHP44CHH242D0D467F.dat.txt 
+3/9/2021 20:32:58: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0332569586.pdf 
+3/9/2021 20:32:59: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2ZI1X6ZBR062D0E750C.dat.txt 
+3/9/2021 20:33:01: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0332599593.pdf 
+3/9/2021 20:33:02: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2ZI2D1UTQ282D0E7F6C.dat.txt 
+3/9/2021 20:33:03: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0333029597.pdf 
+3/9/2021 20:33:04: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2ZK8ZFP54CB2D15C07A.dat.txt 
+3/9/2021 20:33:05: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0333049598.pdf 
+3/9/2021 20:33:07: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2ZK9ENK8JDE2D15CA6D.dat.txt 
+3/9/2021 20:33:08: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0333079602.pdf 
+3/9/2021 20:33:09: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2ZLMGBPVODF2D1A50E0.dat.txt 
+3/9/2021 20:33:10: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0333099599.pdf 
+3/9/2021 20:33:11: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2ZMAQYWRI582D1C8EBA.dat.txt 
+3/9/2021 20:33:12: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0333119584.pdf 
+3/9/2021 20:33:13: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2ZNKWGIMBAD2D20D0E0.dat.txt 
+3/9/2021 20:33:15: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0333149579.pdf 
+3/9/2021 20:33:16: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2ZNRQ02DE462D2171F3.dat.txt 
+3/9/2021 20:33:17: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0333169603.pdf 
+3/9/2021 20:33:19: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2ZSMQM03M872D3197CC.dat.txt 
+3/9/2021 20:33:24: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0333199594.pdf 
+3/9/2021 20:33:26: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2ZSN6FIZG9D2D31A22C.dat.txt 
+3/9/2021 20:33:28: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0333269596.pdf 
+3/9/2021 20:33:29: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B2ZULNH6B9FF2D3822B9.dat.txt 
+3/9/2021 20:33:31: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0333309605.pdf 
+3/9/2021 20:33:32: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307MTMC8W5D2D636C54.dat.txt 
+3/9/2021 20:33:34: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0333329622.pdf 
+3/9/2021 20:33:35: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307N8RR9A792D637647.dat.txt 
+3/9/2021 20:33:36: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0333359619.pdf 
+3/9/2021 20:33:37: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B307NNZ0L89E2D63803A.dat.txt 
+3/9/2021 20:33:38: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0333379616.pdf 
+3/9/2021 20:33:39: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B308AVI51UB62D65A472.dat.txt 
+3/9/2021 20:33:41: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0333399610.pdf 
+3/9/2021 20:33:42: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B308BB9AFDCB2D65AEC2.dat.txt 
+3/9/2021 20:33:43: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0333429612.pdf 
+3/9/2021 20:33:44: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B308BQSOQAE92D65B8F4.dat.txt 
+3/9/2021 20:33:45: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0333449620.pdf 
+3/9/2021 20:33:46: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B308C65BWP0B2D65C306.dat.txt 
+3/9/2021 20:33:48: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0333479611.pdf 
+3/9/2021 20:33:49: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B308CMR9N4232D65CDF3.dat.txt 
+3/9/2021 20:33:50: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0333499613.pdf 
+3/9/2021 20:33:52: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B308D27MRJ402D65D814.dat.txt 
+3/9/2021 20:33:53: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0333529615.pdf 
+3/9/2021 20:33:55: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B30CCEQ11V9B2D7311E2.dat.txt 
+3/9/2021 20:33:56: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0333559638.pdf 
+3/9/2021 20:33:57: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B30E763Y4W422D793ABA.dat.txt 
+3/9/2021 20:33:59: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0333579623.pdf 
+3/9/2021 20:34:00: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B30EK1HT6J172D7A6ACE.dat.txt 
+3/9/2021 20:34:01: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0334009631.pdf 
+3/9/2021 20:34:02: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B30ITDSSAJ842D8890A1.dat.txt 
+3/9/2021 20:34:03: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0334029629.pdf 
+3/9/2021 20:34:04: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B30J5R6WO3342D89B4DE.dat.txt 
+3/9/2021 20:34:06: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0334049627.pdf 
+3/9/2021 20:34:07: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B30KHWG172B22D8E2613.dat.txt 
+3/9/2021 20:34:08: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0334079634.pdf 
+3/9/2021 20:34:09: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B30MDVSISK982D946BC9.dat.txt 
+3/9/2021 20:34:11: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0334109642.pdf 
+3/9/2021 20:34:12: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B30MQFOC34612D95943C.dat.txt 
+3/9/2021 20:34:14: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0334129639.pdf 
+3/9/2021 20:34:15: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B30N4487S35D2D96D76A.dat.txt 
+3/9/2021 20:34:16: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0334159630.pdf 
+3/9/2021 20:34:17: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B30N4JKDXK802D96E17C.dat.txt 
+3/9/2021 20:34:19: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0334179604.pdf 
+3/9/2021 20:34:20: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B30N4YQ45C932D96EB6F.dat.txt 
+3/9/2021 20:34:21: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0334209632.pdf 
+3/9/2021 20:34:22: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B30PXJBA3FB82DA032DC.dat.txt 
+3/9/2021 20:34:24: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0334229624.pdf 
+3/9/2021 20:34:25: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B30PXYED68D82DA03CCF.dat.txt 
+3/9/2021 20:34:26: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0334259618.pdf 
+3/9/2021 20:34:27: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B30PYECIX0F22DA0473F.dat.txt 
+3/9/2021 20:34:29: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0334279635.pdf 
+3/9/2021 20:34:30: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B30S2F2W3Y8A2DA74AD7.dat.txt 
+3/9/2021 20:34:31: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0334309656.pdf 
+3/9/2021 20:34:33: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B30SA4TL51412DA80108.dat.txt 
+3/9/2021 20:34:35: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0334339641.pdf 
+3/9/2021 20:34:36: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B30TIL3YMB302DAC1B05.dat.txt 
+3/9/2021 20:34:37: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0334369628.pdf 
+3/9/2021 20:34:38: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B30TJ0W4OR4A2DAC2555.dat.txt 
+3/9/2021 20:34:39: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0334389649.pdf 
+3/9/2021 20:34:41: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B30UNVLUWJ3B2DAFEA4C.dat.txt 
+3/9/2021 20:34:42: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0334419640.pdf 
+3/9/2021 20:34:43: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B30UWOZQEN312DB0BA8D.dat.txt 
+3/9/2021 20:34:44: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0334439651.pdf 
+3/9/2021 20:34:45: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B30VU7SKZQ8F2DB3D24C.dat.txt 
+3/9/2021 20:34:46: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0334459661.pdf 
+3/9/2021 20:34:48: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B30XJZ6YCW2C2DB9851A.dat.txt 
+3/9/2021 20:34:49: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0334489665.pdf 
+3/9/2021 20:34:50: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B30XKENNEZ512DB98F3B.dat.txt 
+3/9/2021 20:34:52: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0334509650.pdf 
+3/9/2021 20:34:53: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B30XZ8LZ68C42DBAED93.dat.txt 
+3/9/2021 20:34:55: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0334539644.pdf 
+3/9/2021 20:34:56: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B30XZOREV6E62DBAF822.dat.txt 
+3/9/2021 20:34:58: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0334579643.pdf 
+3/9/2021 20:34:59: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B30Y895GE0D92DBBC277.dat.txt 
+3/9/2021 20:35:00: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0334599659.pdf 
+3/9/2021 20:35:01: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B30YH3BK4NC72DBC9334.dat.txt 
+3/9/2021 20:35:02: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0335019625.pdf 
+3/9/2021 20:35:03: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B30Z6B2V7J5D2DBEE6C9.dat.txt 
+3/9/2021 20:35:04: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0335039664.pdf 
+3/9/2021 20:35:06: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B30ZW5EYDA0C2DC14933.dat.txt 
+3/9/2021 20:35:07: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0335069652.pdf 
+3/9/2021 20:35:08: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B310H07UQIBE2DC335D0.dat.txt 
+3/9/2021 20:35:09: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0335089647.pdf 
+3/9/2021 20:35:10: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B310HG9EFED52DC34050.dat.txt 
+3/9/2021 20:35:12: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0335109654.pdf 
+3/9/2021 20:35:13: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B310OXM7GD852DC3F112.dat.txt 
+3/9/2021 20:35:15: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0335139617.pdf 
+3/9/2021 20:35:16: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B310V21KR2E82DC481A9.dat.txt 
+3/9/2021 20:35:17: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0335169637.pdf 
+3/9/2021 20:35:18: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B3113U5YH2D32DC5511F.dat.txt 
+3/9/2021 20:35:20: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0335189621.pdf 
+3/9/2021 20:35:21: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B311S5XEXO3F2DC78FB4.dat.txt 
+3/9/2021 20:35:22: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0335219663.pdf 
+3/9/2021 20:35:23: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B3137I8IRF9B2DCC4C5A.dat.txt 
+3/9/2021 20:35:24: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0335239666.pdf 
+3/9/2021 20:35:25: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B316Z9SK4M5C2DD8D314.dat.txt 
+3/9/2021 20:35:26: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0335259667.pdf 
+3/9/2021 20:35:27: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B317IX8LCPA62DDAA340.dat.txt 
+3/9/2021 20:35:29: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0335279672.pdf 
+3/9/2021 20:35:30: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B3188WHOWK682DDD08D6.dat.txt 
+3/9/2021 20:35:31: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0335309681.pdf 
+3/9/2021 20:35:32: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B318N0E8CL7C2DDE5616.dat.txt 
+3/9/2021 20:35:34: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0335329677.pdf 
+3/9/2021 20:35:36: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B319CAI4PF302DE0AB32.dat.txt 
+3/9/2021 20:35:37: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0335369671.pdf 
+3/9/2021 20:35:38: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B31A6HPEGDF52DE37483.dat.txt 
+3/9/2021 20:35:40: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0335389669.pdf 
+3/9/2021 20:35:41: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B31A6X4SM2112DE37EA5.dat.txt 
+3/9/2021 20:35:42: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0335419674.pdf 
+3/9/2021 20:35:43: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B31A7CM9DQ272DE388C7.dat.txt 
+3/9/2021 20:35:44: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0335439680.pdf 
+3/9/2021 20:35:45: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B31ANDV4QTD42DE5038F.dat.txt 
+3/9/2021 20:35:47: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0335459685.pdf 
+3/9/2021 20:35:48: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B31BPZ25E0572DE89300.dat.txt 
+3/9/2021 20:35:49: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0335489673.pdf 
+3/9/2021 20:35:50: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B31BYCW1QV272DE958FF.dat.txt 
+3/9/2021 20:35:52: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0335519676.pdf 
+3/9/2021 20:35:54: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B31BYS786A4D2DE96311.dat.txt 
+3/9/2021 20:35:55: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0335549679.pdf 
+3/9/2021 20:35:57: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B31ESQAYG1012DF2CB07.dat.txt 
+3/9/2021 20:35:58: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0335579692.pdf 
+3/9/2021 20:35:59: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B31F5QTR2DD62DF3FE66.dat.txt 
+3/9/2021 20:36:01: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0335599675.pdf 
+3/9/2021 20:36:02: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B31FESAP2TDE2DF4D3F6.dat.txt 
+3/9/2021 20:36:04: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0336029689.pdf 
+3/9/2021 20:36:05: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B31G0FJPOG8C2DF6D341.dat.txt 
+3/9/2021 20:36:06: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0336059683.pdf 
+3/9/2021 20:36:07: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B31G0UV5Z0AA2DF6DD43.dat.txt 
+3/9/2021 20:36:09: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0336079710.pdf 
+3/9/2021 20:36:10: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B31G1A8K1LCF2DF6E755.dat.txt 
+3/9/2021 20:36:11: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0336109658.pdf 
+3/9/2021 20:36:12: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B31G1Q5DKKE12DF6F1C5.dat.txt 
+3/9/2021 20:36:14: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0336129690.pdf 
+3/9/2021 20:36:15: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B31G2694RY012DF6FC64.dat.txt 
+3/9/2021 20:36:17: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0336159670.pdf 
+3/9/2021 20:36:18: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B31H1M2EIXDD2DFA416D.dat.txt 
+3/9/2021 20:36:20: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0336189687.pdf 
+3/9/2021 20:36:21: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B31H21DITEF42DFA4B7F.dat.txt 
+3/9/2021 20:36:22: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0336219712.pdf 
+3/9/2021 20:36:23: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B31H2HGEDI1A2DFA55FF.dat.txt 
+3/9/2021 20:36:25: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0336239682.pdf 
+3/9/2021 20:36:26: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B31HEN8VG7C02DFB753A.dat.txt 
+3/9/2021 20:36:27: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0336269691.pdf 
+3/9/2021 20:36:28: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B31IU95GCZ372E003839.dat.txt 
+3/9/2021 20:36:29: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0336289695.pdf 
+3/9/2021 20:36:30: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B31KS261XT782E06A906.dat.txt 
+3/9/2021 20:36:32: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0336309696.pdf 
+3/9/2021 20:36:33: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B31KSHLLVJ9A2E06B328.dat.txt 
+3/9/2021 20:36:34: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0336339694.pdf 
+3/9/2021 20:36:35: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B31NC9PGYX102E0F2AF1.dat.txt 
+3/9/2021 20:36:37: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0336369688.pdf 
+3/9/2021 20:36:39: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B31NCPTCA72D2E0F3590.dat.txt 
+3/9/2021 20:36:41: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0336399709.pdf 
+3/9/2021 20:36:42: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B31ND57GGX492E0F3FA2.dat.txt 
+3/9/2021 20:36:43: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0336429699.pdf 
+3/9/2021 20:36:44: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B31NMFCMY55E2E101ADF.dat.txt 
+3/9/2021 20:36:46: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0336449708.pdf 
+3/9/2021 20:36:47: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B31OR7LQZB672E13DE30.dat.txt 
+3/9/2021 20:36:48: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0336479698.pdf 
+3/9/2021 20:36:49: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B31Q8USV9T562E18D138.dat.txt 
+3/9/2021 20:36:50: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0336499700.pdf 
+3/9/2021 20:36:51: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B31QNSTP5DAD2E1A323F.dat.txt 
+3/9/2021 20:36:52: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0336519701.pdf 
+3/9/2021 20:36:53: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B31RE69E62942E1CA12C.dat.txt 
+3/9/2021 20:36:54: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0336539705.pdf 
+3/9/2021 20:36:56: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B31SB2UDO4BB2E1FAA64.dat.txt 
+3/9/2021 20:36:58: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0336569713.pdf 
+3/9/2021 20:36:59: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B31T0J3PVZ602E220387.dat.txt 
+3/9/2021 20:37:01: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0336599684.pdf 
+3/9/2021 20:37:02: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B31U9E2RV63D2E262719.dat.txt 
+3/9/2021 20:37:03: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0337029715.pdf 
+3/9/2021 20:37:04: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B31UG0WKI9BB2E26C3D6.dat.txt 
+3/9/2021 20:37:06: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0337049678.pdf 
+3/9/2021 20:37:07: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B31YH5FEBX9E2E3427A2.dat.txt 
+3/9/2021 20:37:09: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0337079711.pdf 
+3/9/2021 20:37:10: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B31YHLCLWNBD2E343211.dat.txt 
+3/9/2021 20:37:11: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0337109686.pdf 
+3/9/2021 20:37:12: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B31YI2DBO8DB2E343D3D.dat.txt 
+3/9/2021 20:37:13: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0337129716.pdf 
+3/9/2021 20:37:14: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B320Q6XO62882E3BA1D1.dat.txt 
+3/9/2021 20:37:16: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0337149717.pdf 
+3/9/2021 20:37:17: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B32GNQN3ZUE82E708CC0.dat.txt 
+3/9/2021 20:37:18: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0337179609.pdf 
+3/9/2021 20:37:20: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B32GO63LV6072E7096E2.dat.txt 
+3/9/2021 20:37:21: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0337209719.pdf 
+3/9/2021 20:37:22: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B32GOLFSF1272E70A0F4.dat.txt 
+3/9/2021 20:37:24: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0337229722.pdf 
+3/9/2021 20:37:25: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B32GP1GSCO3B2E70AB74.dat.txt 
+3/9/2021 20:37:26: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0337259697.pdf 
+3/9/2021 20:37:27: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B32GPGWELW5E2E70B596.dat.txt 
+3/9/2021 20:37:28: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0337279721.pdf 
+3/9/2021 20:37:30: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B32GPWY6WR7E2E70C025.dat.txt 
+3/9/2021 20:37:31: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0337309714.pdf 
+3/9/2021 20:37:32: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B32KNR03VU682E7DD63E.dat.txt 
+3/9/2021 20:37:33: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0337329720.pdf 
+3/9/2021 20:37:35: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B32KO6BA7L802E7DE040.dat.txt 
+3/9/2021 20:37:36: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0337359725.pdf 
+3/9/2021 20:37:37: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B32TVVXIBY272E9C7B27.dat.txt 
+3/9/2021 20:37:39: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0337379729.pdf 
+3/9/2021 20:37:40: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B3336DFXZF1B2EBB579A.dat.txt 
+3/9/2021 20:37:42: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0337409731.pdf 
+3/9/2021 20:37:43: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B334LM2Q7O452EC011DE.dat.txt 
+3/9/2021 20:37:45: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0337439726.pdf 
+3/9/2021 20:37:46: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B3357OB4ZO202EC21AED.dat.txt 
+3/9/2021 20:37:47: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0337469724.pdf 
+3/9/2021 20:37:48: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B33583NWD8352EC224FF.dat.txt 
+3/9/2021 20:37:50: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0337489706.pdf 
+3/9/2021 20:37:51: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B3358IY8GC572EC22F11.dat.txt 
+3/9/2021 20:37:52: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0337519723.pdf 
+3/9/2021 20:37:53: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B335Y6CX4OF12EC48CE7.dat.txt 
+3/9/2021 20:37:55: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0337539739.pdf 
+3/9/2021 20:37:56: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B33DZCGZ8G4E2EDF3AFB.dat.txt 
+3/9/2021 20:37:57: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0337569730.pdf 
+3/9/2021 20:37:58: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B33HMAA46CFD2EEB4FB1.dat.txt 
+3/9/2021 20:38:00: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0337589738.pdf 
+3/9/2021 20:38:01: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B33HMPJGBO1B2EEB59B4.dat.txt 
+3/9/2021 20:38:03: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0338029737.pdf 
+3/9/2021 20:38:04: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B33LVG5K68902EF9715E.dat.txt 
+3/9/2021 20:38:05: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0338049735.pdf 
+3/9/2021 20:38:06: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B33QZ89HGCB62F0A6630.dat.txt 
+3/9/2021 20:38:08: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0338079741.pdf 
+3/9/2021 20:38:09: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B33QZNZOPMC82F0A7081.dat.txt 
+3/9/2021 20:38:10: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0338099733.pdf 
+3/9/2021 20:38:11: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B33R03WK2EEB2F0A7AF1.dat.txt 
+3/9/2021 20:38:13: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0338119740.pdf 
+3/9/2021 20:38:14: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B33S9UI32S0E2F0EB343.dat.txt 
+3/9/2021 20:38:15: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0338149734.pdf 
+3/9/2021 20:38:16: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B33SA9RI41292F0EBD46.dat.txt 
+3/9/2021 20:38:18: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0338169743.pdf 
+3/9/2021 20:38:19: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B33UAPBS9A232F156C17.dat.txt 
+3/9/2021 20:38:21: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0338199744.pdf 
+3/9/2021 20:38:22: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B33ZDJ49LR512F264A73.dat.txt 
+3/9/2021 20:38:24: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0338229749.pdf 
+3/9/2021 20:38:25: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B33ZDYCYL9652F265475.dat.txt 
+3/9/2021 20:38:26: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0338259751.pdf 
+3/9/2021 20:38:27: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B33ZEDVXEU882F265E97.dat.txt 
+3/9/2021 20:38:28: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0338279747.pdf 
+3/9/2021 20:38:29: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B347AX70WZF12F409F3B.dat.txt 
+3/9/2021 20:38:30: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0338299745.pdf 
+3/9/2021 20:38:31: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B347BCJ0VR112F40A94D.dat.txt 
+3/9/2021 20:38:32: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0338319742.pdf 
+3/9/2021 20:38:33: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B347BS7PWL282F40B39E.dat.txt 
+3/9/2021 20:38:35: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B34A153Z4B782F49AF2D.dat.txt 
+3/9/2021 20:38:36: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0338359752.pdf 
+3/9/2021 20:38:37: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B34B3Z5XCV042F4D446A.dat.txt 
+3/9/2021 20:38:39: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0338379750.pdf 
+3/9/2021 20:38:40: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B34BKBWL6N962F4EC6B5.dat.txt 
+3/9/2021 20:38:43: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0338409757.pdf 
+3/9/2021 20:38:44: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B34BKRIAL3B12F4ED0F6.dat.txt 
+3/9/2021 20:38:46: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0338449758.pdf 
+3/9/2021 20:38:47: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B34BL7OWB3D42F4EDB94.dat.txt 
+3/9/2021 20:38:49: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0338479756.pdf 
+3/9/2021 20:38:50: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B34FTGSFP1102F5CE7B6.dat.txt 
+3/9/2021 20:38:51: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0338509755.pdf 
+3/9/2021 20:38:53: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B34INYFJ2U7A2F665C7C.dat.txt 
+3/9/2021 20:38:54: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0338539718.pdf 
+3/9/2021 20:38:55: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B34UH1FVPMAE2F8D94C5.dat.txt 
+3/9/2021 20:38:57: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0338569746.pdf 
+3/9/2021 20:38:58: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B34UHHOBJEC82F8D9F73.dat.txt 
+3/9/2021 20:39:00: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0338589760.pdf 
+3/9/2021 20:39:01: Procesando facturacion C:\Users\carlos.murcia\OneDrive - Ricoh\Escritorio\archivo\job010B34XB4SV8C1F2F970035.dat.txt 
+3/9/2021 20:39:02: Se guardo el PDF factura cliente en RICOHPS C:\DOT\PDF\2021\9\3\0339019761.pdf 
